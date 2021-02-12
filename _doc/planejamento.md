@@ -6,5 +6,5 @@ icon:
   name: icon_puzzle_alt
 color: green
 sections:
-  - /planejamento
+  - /planejamento/intro
 ---
