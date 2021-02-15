@@ -2,7 +2,7 @@
 layout: home
 title: Home
 tagline: |
-  lorem ipsum dolor sit amet
+  Requisitos de Software
 heading: Getting started is easy!
 navigation:
   - /planejamento
