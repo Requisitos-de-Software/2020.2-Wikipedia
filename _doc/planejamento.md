@@ -51,7 +51,7 @@ Telegram | Comunicação rápida e mais informal
 
 <div style="display: flex; flex-flow: row wrap; justify-content: center; margin: 30px auto"> 
   <div style="width: 600px; margin-top: 10px; display: flex; justify-content: center; align-items: center">
-    <img width="600px" src="../assets/tabela_horarios.png">
+    <img width="600px" src="../assets/planejamento.png">
   </div>
 </div>
 
