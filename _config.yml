@@ -2,7 +2,8 @@ remote_theme: leakyabstractions/pretty-docs
 description: Requisitos de Software
 branding:
   icon:
-    name: icon_documents_alt
+    type: fa
+    name: fa-book
   highlight: 2020.2
   bold: Wikipedia
 markdown: kramdown
