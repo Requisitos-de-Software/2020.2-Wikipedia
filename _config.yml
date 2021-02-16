@@ -3,7 +3,7 @@ description: Requisitos de Software
 branding:
   icon:
     type: fa
-    name: fa-book
+    name: fa-wikipedia-w fa-border
   highlight: 2020.2
   bold: Wikipedia
 markdown: kramdown
@@ -18,7 +18,6 @@ kramdown:
   parse_block_html: true
 
 
-logo: "./assets/logo.png"
 #
 # Collections
 #
