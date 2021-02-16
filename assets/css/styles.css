@@ -301,7 +301,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="sub
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
 /* ======= Landing Page ======= */
-.landing-page .header { background: #333; color: rgba(255, 255, 255, 0.85); padding: 50px 0; }
+.landing-page .header { background: #333 !important; color: rgba(255, 255, 255, 0.85); padding: 50px 0; }
 .landing-page .header a { color: #fff; }
 .landing-page .branding { text-transform: uppercase; margin-bottom: 20px; }
 .landing-page .branding .logo { font-size: 38px; margin-top: 0; margin-bottom: 0; }

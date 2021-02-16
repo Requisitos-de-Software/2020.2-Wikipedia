@@ -6,6 +6,7 @@ tagline: |
 heading: Getting started is easy!
 navigation:
   - /planejamento
+  - /about
 ---
 
 Welcome to prettyDocs.
