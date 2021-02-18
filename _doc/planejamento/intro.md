@@ -2,46 +2,42 @@
 title: Planejamento
 sections:
    - Introducao
+   - Metodologia
    - Cronograma
-   - Metodologias
+   - Horarios de Disponibilidade
    - Ferramentas
-   - Horarios disponiveis
    - Referencias Bibliograficas
 ---
 
-### Introdução
+## Introdução {#introducao}
 
-Planejamento do projeto de Requisitos de software, com as etapas de desenvolvimento do projeto dividas em tópicos, sendo eles:
-
+Para o planejamento do projeto de Requisitos de software, foi definino por meio de reuniões os seguintes tópicos:
+*  Metodologia
 *  Cronograma
-*  Metodologias
+*  Horarios de Disponibilidade
 *  Ferramentas
-*  Horários disponíveis
-*  Referências Bibliográficas
 
-### Cronograma
+## Metodologia
 
-Foi decidido dividir o projeto de acordo com o cronograma da matéria fazendo com que existam cinco fases do projeto. sendo elas:
+## Cronograma
 
-<div class="table-responsive">
+No conograma decidimos por anteceder a finalização das etapas do projeto dois dias antes da data de entrega para que haja tempo para solução de possíveis imprevistos.
 
-{: .table .table-striped .table-bordered}
-| Fases | Título | Data | Descrição
-|-
-|I| Pré-Rastreabilidade | Data | Planejamento do projeto e RichPicture|
-|II| Elicitação de Requisitos | Data | Técnicas e Priorização|
-|III| Modelagem de Requisitos - Inicial | Data | Cenários - Léxico |
-|III| Modelagem de Requisitos - Tradicional | Data | Use Case - Especificação Suplementar|
-|III| Modelagem de Requisitos Ágil | Data | Histórias de Usuários - Backlogs |
-|III| Modelagem de Requisitos - Intencional ou Orientada à Meta | Data |NFR Framework |
-|IV| Análise de Requisitos | Data | Verificação - Validação |
-|V| Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | Data | Pós-Rastreabilidade |
-
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/Cronograma.png){: .img-responsive}
 </div>
 
-### Metodologias
+## Horários de Disponibilidade {#horarios-de-disponibilidade}
 
-### Ferramentas
+Para identificar os horários mais adequados para nossos encontros foi realizado em conjunto uma tabela que determina horários livres de cada integrante.
+
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/Heatmap.png){: .img-responsive}
+</div>
+
+## Ferramentas
+
+A seguir estão listados os principais softwares que utilizaremos.
 
 <div class="table-responsive">
 
@@ -57,10 +53,4 @@ Foi decidido dividir o projeto de acordo com o cronograma da matéria fazendo co
 
 </div>
 
-### Horários disponíveis
-
-<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
-  ![screenshot](assets/images/planejamento.png){: .img-responsive}
-</div>
-
-### Referências Bibliográficas
+## Referências Bibliográficas {#referencias-bibliograficas}
