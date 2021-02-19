@@ -4,6 +4,7 @@ sections:
    - Introducao
    - Rich Picture
    - Referencias Bibliograficas
+   - Historico de Versao
 ---
 
 ## Introdução {#introducao}
@@ -19,4 +20,15 @@ O Rich Picture é um desenho com objetivo de expressar problemas com maior facil
 
 ## Referências Bibliográficas {#referencias-bibliograficas}
 
-* Rich pictures. Disponível em: <http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html> Acesso em 18 de fev. de 2021
+>Rich pictures. Disponível [aqui](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html). Acesso em 18 de fev. de 2021
+
+
+## Histórico de Versão {#historico-de-versao}
+<div class="table-responsive">
+
+{: .table .table-striped .table-bordered}
+| Versão | Data | Modificação | Autor(es) |
+|--|--|--|--|
+| 1.0 | 19/02/2021 | Criação da página | Todos os integrantes |
+
+</div>
