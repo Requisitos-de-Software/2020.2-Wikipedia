@@ -20,7 +20,7 @@ O Rich Picture é um desenho com objetivo de expressar problemas com maior facil
 
 ## Referências Bibliográficas {#referencias-bibliograficas}
 
->Rich pictures. Disponível [aqui](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html). Acesso em 18 de fev. de 2021
+>Rich pictures. Disponível [aqui](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html). Acesso em 19 de fev. de 2021
 
 
 ## Histórico de Versão {#historico-de-versao}

@@ -1,7 +1,7 @@
 ---
 title: Planejamento
 excerpt: Apresenta o planejamento do projeto da disciplina de Requisitos de Software
-date: 2021-02-11
+date: 2021-02-19
 icon:
   name: icon_puzzle_alt
 color: green

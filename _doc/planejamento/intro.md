@@ -63,7 +63,7 @@ A seguir estão listados os principais softwares que utilizaremos.
 
 ## Referências Bibliográficas {#referencias-bibliograficas}
 
-> Metodologia Kanban disponível [aqui](https://blog.runrun.it/o-que-e-kanban/#b) acesso em 19/02/2021
+> Metodologia Kanban. Disponível [aqui](https://blog.runrun.it/o-que-e-kanban/#b). Acesso em 19 de fev. de 2021
 
 ## Histórico de Versão {#historico-de-versao}
 
@@ -73,4 +73,5 @@ A seguir estão listados os principais softwares que utilizaremos.
 | 1.0 | 18/02/2021 | Criação da página | Todos os integrantes |
 | 1.1 | 19/02/2021 | Adição das tabelas | Igor Queiroz |
 | 1.2 | 19/02/2021 | Adição de conteúdo sobre metodologia | Matheus Gabriel |
+| 1.2.1 | 19/02/2021 | Pequenas correções | Igor Queiroz |
 
