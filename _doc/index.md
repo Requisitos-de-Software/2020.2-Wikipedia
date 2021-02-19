@@ -1,14 +1,12 @@
 ---
 layout: home
-title: Home
+title: Página Inicial
 tagline: |
   Requisitos de Software
-heading: Getting started is easy!
+heading: Bem vindos!
 navigation:
-  - /planejamento
   - /about
+  - /planejamento
+  - /pre-rastreabilidade
 ---
 
-Welcome to prettyDocs.
-This landing page is an example of how you can use a card view to present segments of your documentation.
-You can customise the icon fonts based on your needs.
