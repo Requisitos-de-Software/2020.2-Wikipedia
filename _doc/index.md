@@ -6,6 +6,7 @@ tagline: |
 heading: Bem vindos!
 navigation:
   - /about
+  - /apresentacoes
   - /planejamento
   - /pre-rastreabilidade
 ---
