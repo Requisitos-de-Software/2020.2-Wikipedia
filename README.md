@@ -1,6 +1,6 @@
 # Grupo 1
 
-Repositório destinado ao desenvolvimento do projeto de IHC do grupo 1.<br>
+Repositório destinado ao desenvolvimento do projeto de Requisitos do grupo 1.<br>
 Contém os documentos para prover a wiki [2020.2-Wikipedia](https://requisitos-de-software.github.io/2020.2-Wikipedia).
 
 ## Pre-Requisitos
