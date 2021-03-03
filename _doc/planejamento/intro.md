@@ -24,6 +24,9 @@ Para o planejamento do projeto de Requisitos de software, foi definino por meio 
 
 ## Metodologia
 
+Os próximos tópicos desta página buscam mostrar a maneira de trabalho do grupo, maneira de organização
+fos integrantes do grupo, etc.
+
 ### Kanban {#kanban}
 
 Como metodologia de trabalho nós optamos pelo Kanban, por diversos motivos, como:
@@ -31,6 +34,9 @@ Como metodologia de trabalho nós optamos pelo Kanban, por diversos motivos, com
 *  Sua boa adaptabilidade para imprevistos que possam ocorrer durante o trabalho.
 *  Facilidade de visualização do trabalho dos demais integrantes.
 *  Melhoria contínua proposta pela metodologia.
+
+Para realização do Kanban do grupo será usado [este quadro no Trello](https://trello.com/b/ww3ulzYy/kanban)
+com o intuito de ser o quadro de atividades da equipe.
 
 ### Democrácia {#democracia}
 
