@@ -3,6 +3,10 @@ title: Planejamento
 sections:
    - Introducao
    - Metodologia
+   - Kanban
+   - Democracia
+   - Atividades em pares
+   - Revisao
    - Cronograma
    - Horarios de Disponibilidade
    - Ferramentas
@@ -20,12 +24,36 @@ Para o planejamento do projeto de Requisitos de software, foi definino por meio 
 
 ## Metodologia
 
+### Kanban {#kanban}
+
 Como metodologia de trabalho nós optamos pelo Kanban, por diversos motivos, como:
 *  Sua facilidade de aplicação no projeto.
 *  Sua boa adaptabilidade para imprevistos que possam ocorrer durante o trabalho.
 *  Facilidade de visualização do trabalho dos demais integrantes.
 *  Melhoria contínua proposta pela metodologia.
 
+### Democrácia {#democracia}
+
+Todas as escolhas do grupo são feitas democraticamente 
+no grupo do telegram da equipe ou em reunião com todos os membros, 
+onde todos os integrantes debatem sobre as opções de escolhas e depois 
+é feita uma votação utilizando o telegram.
+
+### Atividades em pares
+
+Todas as atividades que não exijam a participação de todos os membros do
+grupo serão realizadas em duplas, visando uma maior interação dos integrantes
+do trabalho.
+
+A divisão das duplas será feita de maneira aleatória, sempre alternando as
+duplas para que todos os membros do trabalho possuam conhecimento sobre
+todas as partes do projeto.
+
+### Revisão {#revisao}
+
+Durante o decorrer do projeto será atribuido a tarefa de revisar o trabalho
+feito durante o período entre entregas, visando assim uma maior qualidade 
+do projeto que será entregue ao fim.
 
 ## Cronograma
 
@@ -74,4 +102,5 @@ A seguir estão listados os principais softwares que utilizaremos.
 | 1.1 | 19/02/2021 | Adição das tabelas | Igor Queiroz |
 | 1.2 | 19/02/2021 | Adição de conteúdo sobre metodologia | Matheus Gabriel |
 | 1.2.1 | 19/02/2021 | Pequenas correções | Igor Queiroz |
+| 1.3.0 | 03/03/2021 | Adição de conteúdo sobre forma de trabalho do grupo| Matheus Gabriel|
 
