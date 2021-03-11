@@ -118,6 +118,59 @@ RFN: Requisito Não Funcional.
 
 ## Questionário {#questionario}
 
+#### Motivação do uso desta técnica
+
+Devido às restrições de interação restringidas em decorrência à pandemia de coronavírus, essa técnica se mostrou a forma mais acessível de obtermos informações do público alvo sem pormos a nós nem aos entrevistados em risco.
+
+Outro ponto é a facilidade de aplicação dessa técnica e também devido a simplicidade do aplicativo tornar essa opção viável.
+
+#### O que o grupo esperava com o questionário?
+
+O grupo espera com a utilização desta técnica de elicitação uma coleta de dados de diversas pessoas com o intuito de constatar
+alguns requisitos do sistema baseado nas respostas dos usuários.
+
+#### Metodologias e técnicas utilizadas
+
+A fim de entender melhor quem são os usuários e o que eles precisam, buscamos obter dados demográficos: idade, sexo, ocupação. Fazendo uso de perguntas fechadas para nos ajudar a entender a prioridade dos requisitos levantados durante o brainstorm e algumas abertas para extrairmos novos requisitos.
+
+#### Dados coletados
+
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest1.png){: .img-responsive}
+</div>
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest2.png){: .img-responsive}
+</div>
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest3.png){: .img-responsive}
+</div>
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest4.png){: .img-responsive}
+</div>
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest5.png){: .img-responsive}
+</div>
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest6.png){: .img-responsive}
+</div>
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest7.png){: .img-responsive}
+</div>
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest8.png){: .img-responsive}
+</div>
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest9.png){: .img-responsive}
+</div>
+<div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
+  ![screenshot](assets/images/questionario/quest10.png){: .img-responsive}
+</div>
+
+#### Resultados
+
+Como resultados nós tivemos acesso a uma série de requisitos e a opiniões de diversos usuários de modo que 
+usamos essas opiniões na priorização dos requisitos levantados pelo grupo.
+
 ## Brainstorm
 
 #### O que é um Brainstorm?
