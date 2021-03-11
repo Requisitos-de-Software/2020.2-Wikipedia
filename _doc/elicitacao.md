@@ -1,6 +1,6 @@
 ---
-title: Elicitação
-excerpt: Elicitação de requisitos sobre o projeto da Wikipedia
+title: Elicitação de Requisitos
+excerpt: Apresenta as técnicas e os resultados para elicitação de requisitos
 date: 2021-03-11
 icon:
   type: fa

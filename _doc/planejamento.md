@@ -1,6 +1,6 @@
 ---
 title: Planejamento
-excerpt: Apresenta o planejamento do projeto da disciplina de Requisitos de Software
+excerpt: Apresenta a organização para realização do projeto
 date: 2021-03-03
 icon:
   name: icon_puzzle_alt
