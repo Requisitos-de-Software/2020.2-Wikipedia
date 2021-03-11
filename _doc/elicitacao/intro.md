@@ -5,7 +5,7 @@ sections:
    - Introspeccao
    - Questionario
    - Brainstorm
-   - Todos os Requisitos
+   - Lista Completa de Requisitos Elicitados
 ---
 
 ## Personas
