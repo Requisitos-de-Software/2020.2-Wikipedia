@@ -188,6 +188,13 @@ o objeto alvo da equipe.<br><br>
 Por ser uma técnica que levanta uma grande quantidade de opiniões e ideias, diversos requisitos podem ser
 encontrados. Outro motivo é que a mesma garante a participação de todos os integrantes do grupo.<br><br>
 
+#### Tema do Brainstorm
+
+Os temas que guiaram as reuniões de Brainstorm foram: 
+- Possiveis funcionalidades que seriam utilizadas por usuários dispostos a editar artigos.
+- Possiveis funcionalidades que seriam utilizadas por usuários que apenas buscam informações em artigos.
+- Possiveis funcionalidades que oferecem comodidade a todos os usuários.
+
 ### 1° sessão do Brainstorm - Requisitos Elicitados
 
 __Legenda:__ <br>RF: Requisito Funcional.<br>RFN: Requisito Não Funcional.
