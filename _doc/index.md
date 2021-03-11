@@ -9,5 +9,5 @@ navigation:
   - /apresentacoes
   - /planejamento
   - /pre-rastreabilidade
+  - /elicitacao
 ---
-
