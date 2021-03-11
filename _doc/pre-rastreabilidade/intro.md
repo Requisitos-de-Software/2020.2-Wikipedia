@@ -43,6 +43,6 @@ Observações importantes:
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
 | 1.0 | 19/02/2021 | Criação da página | Todos os integrantes |
-| 1.1 | 19/02/2021 | Melhorias no Rich Picture | Todos os integrantes |
+| 1.1 | 11/03/2021 | Melhorias no Rich Picture | Todos os integrantes |
 
 </div>
