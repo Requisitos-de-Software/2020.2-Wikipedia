@@ -5,10 +5,12 @@ sections:
    - Introspeccao
    - Questionario
    - Brainstorm
+   - Referencias Bibliograficas
    - Lista Completa de Requisitos Elicitados
 ---
 
 ## Personas
+
 O desenvolvimento das personas está no início do projeto, pois as personas podem informar a funcionalidade do site, ajudar a descobrir lacunas ou destacar novas oportunidades.
 Personas são arquétipos, personagens ficcionais, concebidos a partir da síntese de comportamentos observados entre consumidores com perfis extremos. Representam as motivações, desejos, expectativas e necessidades, reunindo características significativas de um grupo mais abrangente.
 
@@ -22,6 +24,7 @@ Com as seguintes etapas realizamos as personas:
 4. Torne-os realistas: desenvolva as descrições apropriadas do histórico, motivações e expectativas de cada persona. Não inclua muitas informações pessoais. Seja relevante e sério; o humor não é apropriado.
 
 O resultado foi as personas abaixo:
+
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
@@ -72,6 +75,8 @@ O resultado foi as personas abaixo:
 As fotos foram retiradas do site [thispersondoesnotexist.com](thispersondoesnotexist.com).
 
 ## Introspecção {#introspeccao}
+
+Introspecção é uma técnica utilizada para elicitação de requisitos. Nesse método o responsável por levantar os requisitos deve imaginar quais propriedades o sistema deve possuir para atender com sucesso as necessidades do seu público alvo (personas).
 
 **Legenda:**
 <br>
@@ -224,6 +229,12 @@ __Legenda:__ <br>RF: Requisito Funcional.<br>RFN: Requisito Não Funcional.
 |RNF3| O aplicativo deve Garantir Veracidade Dos Artigos |
 
 </div>
+
+## Referências Bibliográficas {#referencias-bibliograficas}
+
+> Personas. Disponível [aqui](https://www.usability.gov/how-to-and-tools/methods/personas.html). Acesso em 11 de mar. de 2021
+
+> Elicitação de Requisitos. PUC-RIO. Disponível [aqui](https://blog.runrun.it/o-que-e-kanban/#b). Acesso em 11 de mar. de 2021
 
 ## Histórico de Versão {#historico-de-versao}
 
