@@ -9,7 +9,6 @@ sections:
 ---
 
 ## Personas
-
 O desenvolvimento das personas está no início do projeto, pois as personas podem informar a funcionalidade do site, ajudar a descobrir lacunas ou destacar novas oportunidades.
 Personas são arquétipos, personagens ficcionais, concebidos a partir da síntese de comportamentos observados entre consumidores com perfis extremos. Representam as motivações, desejos, expectativas e necessidades, reunindo características significativas de um grupo mais abrangente.
 
@@ -21,8 +20,6 @@ Com as seguintes etapas realizamos as personas:
 3. Refinar: Combine e priorize as personas rudes. Separe-os em categorias primárias, secundárias e, se necessário, complementares. Você deve ter cerca de 3-5 personas e suas características identificadas.
 
 4. Torne-os realistas: desenvolva as descrições apropriadas do histórico, motivações e expectativas de cada persona. Não inclua muitas informações pessoais. Seja relevante e sério; o humor não é apropriado.
-
----
 
 O resultado foi as personas abaixo:
 <div class="table-responsive">
@@ -37,7 +34,7 @@ O resultado foi as personas abaixo:
 | **Habilidade(s):** | Física e inglês técnico.
 | **Tarefas(s):** | Deseja escrever e revisar artigos sobre física.
 | **Relacionamento(s):** | Solteiro
-| **Expectativas** | Espera poder escrever sobre o conhecimento que adquiriu na faculdade. Espera poder visualisar a mudanças que outros voluntários tenha feito em páginas que ele contribuiu.
+| **Expectativas** | Espera poder escrever sobre o conhecimento que adquiriu na faculdade. <br>Espera poder visualisar a mudanças que outros voluntários tenha feito em páginas que ele contribuiu.
 
 </div>
 
@@ -51,9 +48,9 @@ O resultado foi as personas abaixo:
 | **Ocupação:** | Estudante
 | **Objetivo(s):** | Deseja ser uma grande youtuber com um canal de curiosidades.
 | **Habilidades(s):** | Inglês básico, edição de vídeos.
-| **Tarefas(s):** | Procurar conteúdo de curiosidades para realizar um vídeo. De vez em quando conteúdo para trabalhos da escola.
+| **Tarefas(s):** | Procurar conteúdo de curiosidades para realizar um vídeo. <br>De vez em quando conteúdo para trabalhos da escola.
 | **Relacionamento(s):** | Possui diversos amigos que são colegas na escola onde estuda.
-| **Expectativas** | Espera que alguém tenha escrito sobre alguma curiosidade para produzir um belo vídeo. Espera que alguém tenha escrito sobre o tema de seu trabalho de escola.
+| **Expectativas** | Espera que alguém tenha escrito sobre alguma curiosidade para produzir um belo vídeo. <br>Espera que alguém tenha escrito sobre o tema de seu trabalho de escola.
 
 </div>
 
@@ -76,8 +73,10 @@ As fotos foram retiradas do site [thispersondoesnotexist.com](thispersondoesnote
 
 ## Introspecção {#introspeccao}
 
-Legenda:
+**Legenda:**
+<br>
 RF: Requisito Funcional.
+<br>
 RFN: Requisito Não Funcional.
 
 ##### Requisitos Funcionais
@@ -235,5 +234,6 @@ __Legenda:__ <br>RF: Requisito Funcional.<br>RFN: Requisito Não Funcional.
 |--|--|--|--|
 | 1.0 | 11/03/2021 | Criação da página | Eduardo Picolo |
 | 1.1 | 11/03/2021 | Adição do conteúdo de brainstorm | Pedro Henrique |
+| 1.2 | 11/03/2021 | Adição do conteúdo de personas e introspecção | Igor Queiroz e Kess Jhones
 
 </div>
