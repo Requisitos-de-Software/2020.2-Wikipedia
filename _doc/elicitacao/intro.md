@@ -7,6 +7,7 @@ sections:
    - Brainstorm
    - Referencias Bibliograficas
    - Lista Completa de Requisitos Elicitados
+   - Historico de Versao
 ---
 
 ## Personas
@@ -21,7 +22,7 @@ Com as seguintes etapas realizamos as personas:
 
 3. Refinar: Combine e priorize as personas rudes. Separe-os em categorias primárias, secundárias e, se necessário, complementares. Você deve ter cerca de 3-5 personas e suas características identificadas.
 
-4. Torne-os realistas: desenvolva as descrições apropriadas do histórico, motivações e expectativas de cada persona. Não inclua muitas informações pessoais. Seja relevante e sério; o humor não é apropriado.
+4. Torne-os realistas: desenvolva as descrições apropriadas do histórico, motivações e expectativas de cada persona. Não inclua muitas informações pessoais. Seja relevante e sério; o humor não é apropriado. [[1]](#label1)
 
 O resultado foi as personas abaixo:
 
@@ -76,7 +77,7 @@ As fotos foram retiradas do site [thispersondoesnotexist.com](thispersondoesnote
 
 ## Introspecção {#introspeccao}
 
-Introspecção é uma técnica utilizada para elicitação de requisitos. Nesse método o responsável por levantar os requisitos deve imaginar quais propriedades o sistema deve possuir para atender com sucesso as necessidades do seu público alvo (personas).
+Introspecção é uma técnica utilizada para elicitação de requisitos. Nesse método o responsável por levantar os requisitos deve imaginar quais propriedades o sistema deve possuir para atender com sucesso as necessidades do seu público alvo (personas). [[2]](#label2)
 
 **Legenda:**
 <br>
@@ -173,8 +174,7 @@ A fim de entender melhor quem são os usuários e o que eles precisam, buscamos 
 
 #### Resultados
 
-Como resultados nós tivemos acesso a uma série de requisitos e a opiniões de diversos usuários de modo que 
-usamos essas opiniões na priorização dos requisitos levantados pelo grupo.
+Como resultados nós tivemos acesso a uma série de requisitos e a opiniões de diversos usuários de modo que usamos essas opiniões na priorização dos requisitos levantados pelo grupo.
 
 ## Brainstorm
 
@@ -285,9 +285,15 @@ __Legenda:__ <br>RF: Requisito Funcional.<br>RFN: Requisito Não Funcional.
 
 ## Referências Bibliográficas {#referencias-bibliograficas}
 
+###### [1] {#label1}
 > Personas. Disponível [aqui](https://www.usability.gov/how-to-and-tools/methods/personas.html). Acesso em 11 de mar. de 2021
 
-> Elicitação de Requisitos. PUC-RIO. Disponível [aqui](https://blog.runrun.it/o-que-e-kanban/#b). Acesso em 11 de mar. de 2021
+###### [2] {#label2}
+> Elicitação de Requisitos. PUC-RIO. Disponível [aqui](http://www2.dbd.puc-rio.br/pergamum/tesesabertas/0521479_08_cap_02.pdf). Acesso em 11 de mar. de 2021
+
+###### [3] {#label3}
+> Klaus Pohl, Chris Rupp Requirements Engineering Fundamentals 2nd Edition
+
 
 ## Histórico de Versão {#historico-de-versao}
 
@@ -299,5 +305,6 @@ __Legenda:__ <br>RF: Requisito Funcional.<br>RFN: Requisito Não Funcional.
 | 1.0 | 11/03/2021 | Criação da página | Eduardo Picolo |
 | 1.1 | 11/03/2021 | Adição do conteúdo de brainstorm | Pedro Henrique |
 | 1.2 | 11/03/2021 | Adição do conteúdo de personas e introspecção | Igor Queiroz e Kess Jhones
+| 1.3 | 11/03/2021 | Adição do conteúdo de questionários | Matheus e Roberto
 
 </div>
