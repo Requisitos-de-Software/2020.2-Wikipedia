@@ -5,8 +5,8 @@ sections:
    - Introspeccao
    - Questionario
    - Brainstorm
-   - Referencias Bibliograficas
    - Lista Completa de Requisitos Elicitados
+   - Referencias Bibliograficas
    - Historico de Versao
 ---
 
@@ -298,9 +298,9 @@ __Legenda:__ <br>RF: Requisito Funcional.<br>RFN: Requisito Não Funcional.
 ###### [2] {#label2}
 > Elicitação de Requisitos. PUC-RIO. Disponível [aqui](http://www2.dbd.puc-rio.br/pergamum/tesesabertas/0521479_08_cap_02.pdf). Acesso em 11 de mar. de 2021
 
-###### [3] {#label3}
 > Klaus Pohl, Chris Rupp Requirements Engineering Fundamentals 2nd Edition
 
+> BARBOSA. Simone. SILVA. Bruno. 2010. Interação Humano-computador.
 
 ## Histórico de Versão {#historico-de-versao}
 
