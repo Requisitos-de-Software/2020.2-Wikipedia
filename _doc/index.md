@@ -10,4 +10,5 @@ navigation:
   - /planejamento
   - /pre-rastreabilidade
   - /elicitacao
+  - /priorizacao
 ---
