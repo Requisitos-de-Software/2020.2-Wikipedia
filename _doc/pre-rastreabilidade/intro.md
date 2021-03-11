@@ -11,7 +11,7 @@ sections:
 
 <div style="text-align: justify;">
 No estágio de pré rastreabilidade foi realizado uma analíse premiliminar por meio de um Rich Picture.
-O Rich Picture é um desenho com objetivo de expressar problemas com maior facilidade, utilizando de simbolos e rasbiscos que tendem a tornar mais intuititvo do que apenas texto.
+O Rich Picture é um desenho com objetivo de expressar problemas com maior facilidade, utilizando de simbolos e rasbiscos que tendem a tornar mais intuitivo do que apenas texto.
 </div>
 
 ## Rich Picture
