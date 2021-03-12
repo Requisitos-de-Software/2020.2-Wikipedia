@@ -7,5 +7,4 @@ icon:
 color: red
 sections:
   - /priorizacao/intro
-  - /priorizacao/prioridades
 ---
