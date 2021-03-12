@@ -1,5 +1,5 @@
 ---
-title: Introspecção
+title: >
 sections:
     - MoSCoW
     - Referencias Bibliograficas
@@ -10,10 +10,10 @@ sections:
 
 Durante a elicitação vários requisitos são levantados, para ordenar o desenvolvimento, gerar valor desde o início e otimizar recursos, é necessário priorizar os requisitos. Para isso usaremos a técnica MosCoW.
 
-A técnica é muito simples: para cada requisito ou item do seu backlog, você deverá atribuir uma das quatro letras: Muste(Tem que ter), Should(Deveria ter), Could(Poderia ter) ou Wont’n(Interessante ter). [[1]](#label1)
+A técnica é muito simples: para cada requisito ou item do seu backlog, você deverá atribuir uma das quatro palavras: Muste(Tem que ter), Should(Deveria ter), Could(Poderia ter) ou Wont’n(Interessante ter). [[1]](#label1)
 
 <div style="text-align: justify;">
-Resultados obtidos com o MoSCoW
+Resultados obtidos com o MoSCoW:
 </div>
 
 <div class="table-responsive">
