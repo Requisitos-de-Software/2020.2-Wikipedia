@@ -47,6 +47,8 @@ O método _First Things First_ permite quantificar os requisitos baseado na esti
 
 A técnica consiste em: para cada requisito ou item do seu backlog, deverá ser atribuido, em uma escala de 1 a 9, o beneficio relativo ao cliente, a penalidade que a falta da funcionalidade causa ao cliente, o custo estimado de implementação e o risco ou dificuldade de implementação.[[2]](#label2)
 
+Foram usadas as Personas e as definições obtidas com o MoSCoW para definir as prioridades usadas na Matriz de prioridades.
+
 <div class="row">
 <div class="col-md-12 col-sm-12 col-sm-12">
 
