@@ -11,4 +11,5 @@ navigation:
   - /pre-rastreabilidade
   - /elicitacao
   - /priorizacao
+  - /modelagem
 ---
