@@ -1,5 +1,5 @@
 ---
-title: especificacaosuplementar
+title: Especificação Suplementar
 sections:
    - Introducao
 
@@ -17,5 +17,5 @@ A Wikipédia é uma enciclopédia livre que contém mais de 32 milhões de artig
 ## Definições
 Consulta aos Léxicos.
 
-## Funcionalidades{#funcionalidades}
+## Funcionalidades
 As funcionalidades foram elicitadas e podem ser encontradas em Elicitação de requisitos e nos Casos de usos levantados.

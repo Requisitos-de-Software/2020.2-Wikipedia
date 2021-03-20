@@ -8,6 +8,6 @@ color: purple
 sections:
   - /modelagem/lexico
   - /modelagem/casosdeuso
-  - /modelagem/versionamento
   - /modelagem/especificacaosuplementar
+  - /modelagem/versionamento
 ---
