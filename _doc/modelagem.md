@@ -9,5 +9,5 @@ sections:
   - /modelagem/lexico
   - /modelagem/casosdeuso
   - /modelagem/versionamento
-  - /modelagem/especificacao-suplementar
+  - /modelagem/especificacaosuplementar
 ---

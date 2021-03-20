@@ -18,5 +18,6 @@ sections:
 |--|--|--|--|
 | 1.0 | 19/03/2021 | Criação da página e dos léxicos | Matheus Gabriel e Roberto |
 | 1.1 | 20/03/2021 | Adição parcial dos resultados de caso de uso | Igor Queiroz |
+| 2.0 | 20/03/2021 | Criação especificação suplementar | Kess Jhones |
 
 </div>
