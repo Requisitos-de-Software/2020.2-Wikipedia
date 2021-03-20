@@ -1,7 +1,6 @@
 ---
 title: Lexicos e Cenarios
 sections:
-   - Introducao
    - Procedimento
    - Lexicos
    - L1
@@ -16,7 +15,7 @@ sections:
    - L10
 ---
 
-## Introdução {#introducao}
+## Introdução
 
 Léxico é uma técnica para descrever símbolos de uma linguagem com o objetivo de identificar palavras ou frases pertencentes a determinada aplicação em estudo e descrevê-las com suas noções e  impactos.
 

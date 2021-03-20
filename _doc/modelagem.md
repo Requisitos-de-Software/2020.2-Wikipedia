@@ -7,5 +7,6 @@ icon:
 color: green
 sections:
   - /modelagem/lexico
+  - /modelagem/casosdeuso
   - /modelagem/versionamento
 ---
