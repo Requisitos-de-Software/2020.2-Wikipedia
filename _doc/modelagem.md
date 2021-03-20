@@ -1,10 +1,10 @@
 ---
 title: Modelagem
-excerpt: Apresenta cenários, léxicos e casos de usos.
-date: 2021-03-03
+excerpt: Apresenta os cenários, léxicos, casos de usos e especificação suplementar do projeto.
+date: 2021-03-20
 icon:
   name: icon_puzzle_alt
-color: green
+color: purple
 sections:
   - /modelagem/lexico
   - /modelagem/casosdeuso

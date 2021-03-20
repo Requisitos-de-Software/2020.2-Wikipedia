@@ -16,6 +16,7 @@ sections:
 {: .table .table-striped .table-bordered}
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
-| 1.0 | 19/03/2021 | Criação da página e dos léxicos | Matheus Gabriel e Rodolpho |
+| 1.0 | 19/03/2021 | Criação da página e dos léxicos | Matheus Gabriel e Roberto |
+| 1.1 | 20/03/2021 | Adição parcial dos resultados de caso de uso | Igor Queiroz |
 
 </div>
