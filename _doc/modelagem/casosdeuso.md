@@ -30,6 +30,38 @@ sections:
 </a>
 </div>
 
+### Especificação:
+
+* **Ator(es):**
+    * Usuário.
+    <br><br>
+* **Pré-condição:**
+    * O ator deve estar com aplicativo aberto.
+    <br><br>
+* **Fluxo de evento principal: (Buscar artigo)**
+    1. O ator clica na barra de pesquisa do aplicativo.
+        1. O autor pode escolher o idioma da pesquisa.
+    2. O ator digita o conteúdo que deseja pesquisar e pressiona em “ir”.
+    3. O sistema responde a pesquisa do autor com vários resultados.
+    4. O ator seleciona a pesquisa dentre os resultados.
+    <br><br>
+* **Fluxo de evento alternativo: (Buscar artigo)**
+    1. O ator clica no microfone na barra de pesquisa do aplicativo.
+    2. O ator fala o conteúdo que deseja pesquisar.
+    3. O sistema responde a pesquisa do autor com vários resultados.
+    4. O ator seleciona a pesquisa dentre os resultados.
+    <br><br>
+* **Fluxo de evento principal: (Buscar artigo vistos recentemente)**
+    1. O ator clica na barra de pesquisa do aplicativo.
+    2. O sistema lhe mostra seu histórico de pesquisa.
+    3. O ator procura o conteúdo que deseja pesquisar entre as pesquisas recentes e pressiona em cima do mesmo.
+    4. O sistema responde a pesquisa do autor com vários resultados.
+    5. O ator seleciona a pesquisa dentre os resultados.
+    <br><br>
+* **Pós-condição:**
+    O autor poderá navegar entre os resultados ou selecionar um que lhe satisfaça.
+    <br><br>
+
 ## Caso de uso 3: Contribuir em artigo {#caso-de-uso-3}
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
@@ -98,6 +130,47 @@ sections:
 <a class="mask" href="assets/images/casosdeuso/Realizar_login_.png" data-title="Caso de uso realizar login" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i>
 </a>
 </div>
+
+### Especificação:
+
+* **Ator(es):**
+    * Usuário.
+    <br><br>
+* **Pré-condição:**
+    * O ator deve estar com aplicativo aberto.
+    <br><br>
+* **Fluxo de evento principal: (Criando Conta)**
+    1. O usuário seleciona o ícone escrito “Mais” na barra de rodapé.
+    2. O sistema lhe apresenta 4 opções.
+    3. O ator seleciona “ENTRAR/JUNTAR NA WIKIPEDIA”.
+    4. O sistema lhe apresenta um formulário de cadastro.
+    5. O usuário preenche seus dados e envia o formulário.
+    6. O sistema valida as credenciais inseridas.
+    7. O sistema retorna o usuário para a página inicial.
+    <br><br>
+* **Fluxo de evento principal: (Fazendo Login)**
+    1. O usuário seleciona o ícone escrito “Mais” na barra de rodapé.
+    2. O sistema lhe apresenta 4 opções.
+    3. O ator seleciona “ENTRAR/JUNTAR NA WIKIPEDIA”.
+    4. O sistema lhe apresenta um formulário de cadastro.
+    5. O usuário seleciona “ENTRAR”.
+    6. O sistema lhe apresenta um formulário de login.
+    7. O usuário preenche seus dados e envia o formulário.
+    8. O sistema valida as credenciais inseridas.
+    9. O sistema retorna o usuário para a página inicial.
+    <br><br>
+
+* **Fluxo de evento principal: (Senha Esquecida)**
+    1. O usuário seleciona o ícone escrito “Mais” na barra de rodapé.
+    2. O sistema lhe apresenta 4 opções.
+    3. O ator seleciona “ENTRAR/JUNTAR NA WIKIPEDIA”.
+    4. O sistema lhe apresenta um formulário de cadastro.
+    5. O usuário seleciona “ESQUECI MINHA SENHA”.
+    6. O sistema redireciona o usuário a um no navegador para que continue o processo de recuperação.
+    <br><br>
+* **Pós-condição:**
+    O autor deverá conseguir entrar, recuperar sua senha ou se cadastrar com sucesso e finalizar seu login no aplicativo.
+    <br><br>
 
 ## Caso de uso 5: Salvar artigo {#caso-de-uso-5}
 
