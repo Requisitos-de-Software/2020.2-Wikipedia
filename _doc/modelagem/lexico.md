@@ -1,5 +1,5 @@
 ---
-title: Lexicos
+title: Léxicos
 sections:
    - Procedimento
    - Lexicos
