@@ -5,7 +5,7 @@ date: 2021-03-11
 icon:
   type: fa
   name: fa-file-text-o
-color: blue
+color: orange
 sections:
   - /elicitacao/intro
 ---
