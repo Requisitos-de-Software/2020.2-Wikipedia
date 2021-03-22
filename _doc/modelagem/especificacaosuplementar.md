@@ -8,7 +8,9 @@ sections:
 
 Visa obter os requisitos que ainda não foram contemplados pelos outros métodos utilizados no projeto até aqui.
 O método de avaliação que será usado para elicitar esses requisitos é o FURPS+.
+
 ### Finalidade
+
 Neste documento iremos explicitar os requisitos não funcionais que não foram elicitados pelos casos de usos que apresentamos.
 
 ### Escopo
@@ -16,7 +18,7 @@ A Wikipédia é uma enciclopédia livre que contém mais de 32 milhões de artig
 
 ### FURPS+
 
-FURPS+ é um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos, assim como representa atributos de Qualidade de Software, sendo ele parte do Rational Unified Process (RUP):
+FURPS+ é um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos, assim como representa atributos de Qualidade de Software, sendo ele parte do Rational Unified Process (RUP): [[3]](#label3)
 
 **F**unctionality (Funcionalidade): Representa todo aspecto funcional do software, ou seja seus requisitos. Sua medição considera, principalmente, o cumprimento dos requesitos especificados.
 

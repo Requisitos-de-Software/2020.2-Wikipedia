@@ -10,6 +10,10 @@ sections:
 
 ## Introdução
 
+Na Linguagem de modelagem unificada (UML), o diagrama de caso de uso resume os detalhes dos usuários do seu sistema (também conhecidos como atores) e as interações deles com o sistema. Para criar um, use um conjunto de símbolos e conectores especializados.
+
+Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre casos de uso, atores e sistemas. Para oferecer maior detalhamento foi utilizado da especificação de caso de uso. [[2]](#label2)
+
 ## Caso de uso 1: Wikipédia {#caso-de-uso-1}
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
@@ -140,33 +144,32 @@ sections:
     * O ator deve estar com aplicativo aberto.
     <br><br>
 * **Fluxo de evento principal: (Criando Conta)**
-    1. O usuário seleciona o ícone escrito “Mais” na barra de rodapé.
+    1. O ator seleciona o ícone escrito “Mais” na barra de rodapé.
     2. O sistema lhe apresenta 4 opções.
     3. O ator seleciona “ENTRAR/JUNTAR NA WIKIPEDIA”.
     4. O sistema lhe apresenta um formulário de cadastro.
-    5. O usuário preenche seus dados e envia o formulário.
+    5. O ator preenche seus dados e envia o formulário.
     6. O sistema valida as credenciais inseridas.
-    7. O sistema retorna o usuário para a página inicial.
+    7. O sistema retorna o ator para a página inicial.
     <br><br>
 * **Fluxo de evento principal: (Fazendo Login)**
-    1. O usuário seleciona o ícone escrito “Mais” na barra de rodapé.
+    1. O ator seleciona o ícone escrito “Mais” na barra de rodapé.
     2. O sistema lhe apresenta 4 opções.
     3. O ator seleciona “ENTRAR/JUNTAR NA WIKIPEDIA”.
     4. O sistema lhe apresenta um formulário de cadastro.
-    5. O usuário seleciona “ENTRAR”.
+    5. O ator seleciona “ENTRAR”.
     6. O sistema lhe apresenta um formulário de login.
-    7. O usuário preenche seus dados e envia o formulário.
+    7. O ator preenche seus dados e envia o formulário.
     8. O sistema valida as credenciais inseridas.
-    9. O sistema retorna o usuário para a página inicial.
+    9. O sistema retorna o ator para a página inicial.
     <br><br>
-
 * **Fluxo de evento principal: (Senha Esquecida)**
-    1. O usuário seleciona o ícone escrito “Mais” na barra de rodapé.
+    1. O ator seleciona o ícone escrito “Mais” na barra de rodapé.
     2. O sistema lhe apresenta 4 opções.
     3. O ator seleciona “ENTRAR/JUNTAR NA WIKIPEDIA”.
     4. O sistema lhe apresenta um formulário de cadastro.
-    5. O usuário seleciona “ESQUECI MINHA SENHA”.
-    6. O sistema redireciona o usuário a um no navegador para que continue o processo de recuperação.
+    5. O ator seleciona “ESQUECI MINHA SENHA”.
+    6. O sistema redireciona o ator a um no navegador para que continue o processo de recuperação.
     <br><br>
 * **Pós-condição:**
     O autor deverá conseguir entrar, recuperar sua senha ou se cadastrar com sucesso e finalizar seu login no aplicativo.
