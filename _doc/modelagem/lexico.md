@@ -9,7 +9,7 @@ sections:
 
 Léxico é uma técnica para descrever símbolos de uma linguagem com o objetivo de identificar palavras ou frases pertencentes a determinada aplicação em estudo e descrevê-las com suas noções e  impactos.
 
-O léxico pode ser um verbo, um objeto ou estado, caso seja um verbo o usuário deverá realizar uma ação e os procedimentos para realizar essa ação, se for um objeto é identificado esse objeto e define-se os relacionamentos com os demais objetos, no caso do estado identifica quais ações proporcionam tais estados. [[1]]{#label1}
+O léxico pode ser um verbo, um objeto ou estado, caso seja um verbo o usuário deverá realizar uma ação e os procedimentos para realizar essa ação, se for um objeto é identificado esse objeto e define-se os relacionamentos com os demais objetos, no caso do estado identifica quais ações proporcionam tais estados. [[1]](#label1)
 
 ## Procedimento
 
@@ -214,6 +214,17 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 {: .table .table-striped .table-bordered}
 | Classificação | Noção | Impacto | 
 |--|--|--|--|
-| Estado | Aplicação em código aberto |  Permite que o usuário encontre o código da aplicaçaõ |
+| Estado | Aplicação em código aberto |  Permite que o usuário encontre o código da aplicação |
+
+</div>
+
+#### L17 - Artigo protegido {#17}
+
+<div class="table-responsive">
+
+{: .table .table-striped .table-bordered}
+| Classificação | Noção | Impacto | 
+|--|--|--|--|
+| Objeto | Artigo que necessita de previlégios para contribuir |  Impossibilita que o usuário contribua com certos artigos |
 
 </div>

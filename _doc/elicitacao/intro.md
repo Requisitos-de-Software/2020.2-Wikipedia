@@ -6,7 +6,7 @@ sections:
    - Questionario
    - Brainstorm
    - Lista Completa de Requisitos Elicitados
-   - Referencias Bibliograficas
+   - Referencias
    - Historico de Versao
 ---
 
@@ -290,7 +290,7 @@ __Legenda:__ <br>RF: Requisito Funcional.<br>RFN: Requisito Não Funcional.
 
 </div>
 
-## Referências Bibliográficas {#referencias-bibliograficas}
+## Referências {#referencias}
 
 ###### [1] {#label1}
 > Personas. Disponível [aqui](https://www.usability.gov/how-to-and-tools/methods/personas.html). Acesso em 11 de mar. de 2021

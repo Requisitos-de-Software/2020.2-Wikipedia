@@ -3,7 +3,7 @@ title: >
 sections:
     - MoSCoW
     - First Things First
-    - Referencias Bibliograficas
+    - Referencias
     - Historico de Versao
 ---
 
@@ -62,7 +62,7 @@ Foram usadas as Personas e as definições obtidas com o MoSCoW para definir as 
 </div>
 </div>
 
-## Referências Bibliográficas {#referencias-bibliograficas}
+## Referências {#referencias}
 
 ###### [1] {#label1}
 

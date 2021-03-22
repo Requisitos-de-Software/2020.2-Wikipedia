@@ -10,7 +10,7 @@ sections:
    - Cronograma
    - Horarios de Disponibilidade
    - Ferramentas
-   - Referencias Bibliograficas
+   - Referencias
    - Historico de Versao
 ---
 
@@ -95,7 +95,7 @@ A seguir estão listados os principais softwares que utilizaremos.
 
 </div>
 
-## Referências Bibliográficas {#referencias-bibliograficas}
+## Referências {#referencias}
 
 > Metodologia Kanban. Disponível [aqui](https://blog.runrun.it/o-que-e-kanban/#b). Acesso em 19 de fev. de 2021
 

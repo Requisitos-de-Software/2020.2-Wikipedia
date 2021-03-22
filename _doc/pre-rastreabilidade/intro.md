@@ -3,7 +3,7 @@ title: Pré Rastreabilidade
 sections:
    - Introducao
    - Rich Picture
-   - Referencias Bibliograficas
+   - Referencias
    - Historico de Versao
 ---
 
@@ -31,7 +31,7 @@ Observações importantes:
 * O aplicativo possibilita a criação de uma **conta de usuário**, assim poderá visualizar seu histórico, artigos salvos e suas contribuições, ou seja ocorre uma **sincronização**.
 </div>
 
-## Referências Bibliográficas {#referencias-bibliograficas}
+## Referências {#referencias
 
 >Rich pictures. Disponível [aqui](http://systems.open.ac.uk/materials/T552/pages/rich/richAppendix.html). Acesso em 19 de fev. de 2021
 
