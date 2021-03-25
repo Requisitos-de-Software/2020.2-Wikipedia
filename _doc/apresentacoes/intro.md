@@ -3,6 +3,7 @@ title: >
 sections:
     - Planejamento
     - Elicitacao e priorizacao de requisitos
+    - Modelagem
 ---
 
 ## Planejamento
@@ -15,4 +16,10 @@ sections:
 
 <div class="embed-responsive embed-responsive-16by9">
    <iframe src="https://www.youtube.com/embed/zRDE-uA0FzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Modelagem
+
+<div class="embed-responsive embed-responsive-16by9">
+   <iframe src="https://www.youtube.com/embed/diQOLSxrKRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
