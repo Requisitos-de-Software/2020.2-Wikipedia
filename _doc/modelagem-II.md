@@ -7,5 +7,6 @@ icon:
 color: green
 sections:
   - /modelagem-II/user_storys
+  - /modelagem-II/NFR
   - /modelagem-II/versionamento
 ---
