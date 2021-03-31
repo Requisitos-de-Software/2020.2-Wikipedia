@@ -9,7 +9,8 @@ sections:
 
 ## Introdução {#introducao}
 
-## Épicos {#epicos}
+### Épicos {#epicos}
+É uma grande história de usuário, dividido em pedaços menores(Histórias de Usuários menores) de forma que possam ser estimadas, priorizados e desenvolvidos em um Sprint.
 
 <div class="table-responsive">
 
@@ -22,7 +23,9 @@ sections:
 | EP4 | Gerenciamento de configurações |
 
 </div>
-## Features
+
+### Features
+O objetivo de uma Feature é realizar um Épico, podem haver 1 ou mais features agrupados sob um Épico. Uma Feature agrupa 1 ou muitas User Stories (histórias equivalem a requisitos funcionais) que estão no contexto da Feature.
 
 <div class="table-responsive">
 
@@ -39,7 +42,13 @@ sections:
 
 </div>
 
-## Estórias de usuários {#estorias-de-usuarios}
+### Estórias de usuários {#estorias-de-usuarios}
+
+Uma história de usuário é uma curta e simples descrição de uma tarefa expressa na perspectiva da pessoa que deseja essa nova funcionalidade, normalmente um usuário ou cliente do sistema (Wiegers e Beatty, 2013).
+
+Serão escritos da seguinte forma:
+
+Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para que eu consiga < UMA RAZÃO >
 
 <div class="table-responsive">
 
