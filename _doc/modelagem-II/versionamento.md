@@ -1,5 +1,5 @@
 ---
-title: >
+title: Versionamento e Referencias
 sections:
    - Referencias
    - Historico de Versao

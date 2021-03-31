@@ -84,7 +84,6 @@ Os softgoals de afirmação são softgoals que dão razões para as decisões de
 </a>
 </div>
 
-
 # NFR - Usabilidade {#nfr-usabilidade}
 
 ### Sem propagação
