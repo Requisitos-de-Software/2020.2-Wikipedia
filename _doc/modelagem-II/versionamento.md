@@ -16,6 +16,9 @@ sections:
 ###### [3] {#label3}
 > VENTURA, Plínio. Epic, Feature e User Story (Epico, Funcionalidade e História de Usuário). Até o momento. Disponível em: https://www.ateomomento.com.br/epic-feature-e-user-story/. Acesso em: 31 de março de 2021.
 
+###### [4] {#label4}
+>SILVA, Reinaldo Antônio. Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. 2019.  155. Pós-Graduação em Ciência da Computação - Universidade Federal de Pernambuco, Recife, 2019.
+
 ## Histórico de Versão {#historico-de-versao}
 
 <div class="table-responsive">
@@ -26,5 +29,6 @@ sections:
 | 1.0 | 31/03/2021 | Criação da página, Epicos, Features e Estorias de usuários | Matheus Gabriel, Roberto, Kess Jhones e Eduardo |
 | 1.1 | 31/03/2021 | Adicionado complemento sobre Epicos, features e historias | Eduardo |
 | 1.2 | 31/03/2021 | Adicionado Backlog do produto | Eduardo, Matheus Gabriel e Kess |
+| 2.0 | 31/03/2021 | Adicionando gráficos NFR | Pedro Henrique, Roberto Martinz |
 
 </div>
