@@ -25,5 +25,6 @@ sections:
 |--|--|--|--|
 | 1.0 | 31/03/2021 | Criação da página, Epicos, Features e Estorias de usuários | Matheus Gabriel, Roberto, Kess Jhones e Eduardo |
 | 1.1 | 31/03/2021 | Adicionado complemento sobre Epicos, features e historias | Eduardo |
+| 1.2 | 31/03/2021 | Adicionado Backlog do produto | Eduardo, Matheus Gabriel e Kess |
 
 </div>
