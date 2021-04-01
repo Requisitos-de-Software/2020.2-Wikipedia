@@ -72,12 +72,7 @@ Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para que eu consiga < UMA 
 | US9 | Como usuário, eu quero compartilhar artigos que eu li com outras pessoas, para que eu possa divulgar temas de meu interesse | **A aplicação deve:**<br>- Mostrar opção de compartilhar |
 | US10 | Como usuário, eu quero acessar o histórico de artigos que eu li, para que eu possa retornar a um artigo facilmente | **A aplicação deve:**<br>- Mostrar opção de acessar histórico de leituras |
 | US11 | Como usuário, eu quero salvar artigos de meu interesse, para que eu possa acessá-los novamente | **A aplicação deve:**<br>- Mostrar opção de salvar artigo<br>**O usuário deve:**<br>- Possuir conta no sistema<br>- Estar logado |
-<<<<<<< HEAD
 | US12 | Como usuário, eu quero criar listas de artigos para agrupar artigos de meu interesse, para que eu possa melhor organizar os meus artigos salvos |  **A aplicação deve:**<br>- Mostrar opção de salvar artigo<br>- Mostrar opção de criar lista<br>- Mostrar opção de definir nome da lista<br>- Mostrar opção de definir descrição da lista<br>**O usuário deve:**<br>- Possuir conta no sistema<br>- Estar logado |
-| US14 | Como usuário, eu quero fazer logout, para que eu possa utilizar outra conta e ter mais segurança e privacidade. |
-=======
-| US12 | Como usuário, eu quero criar listas de artigos para agrupar artigos de meu interesse, para que eu possa melhor organizar os meus artigos salvos |  **A aplicação deve:**<br>- Mostrar opção de salvar artigo<br>- Mostrar opção de criar lista<br>- Mostrar opção de definir nome da lista<br>- Mostrar opção de definir descrição da lista<br> |
->>>>>>> b72cfac2351ef35a4d29a2903eaf3ccc22a51bff
 | US13 | Como usuário, eu quero sincronizar minhas listas de artigos entre meus dispositivos de acesso e ter maior praticidade | **A aplicação deve:**<br>- Possuir armazenamento de listas em nuvem.<br>**O usuário deve:**<br>- Possuir conta no sistema<br>- Estar logado |
 | US14 | Como usuário, eu quero fazer logout, para que eu possa utilizar outra conta e ter mais segurança e privacidade. | **A aplicação deve:**<br>- Possuir opção para sair da conta. |
 | US15 | Como usuário, eu quero editar o tema de cores do app, para que esteja da maneira que mais me agrade | **A aplicação deve:**<br>- Possuir diferentes temas para o usuário |
