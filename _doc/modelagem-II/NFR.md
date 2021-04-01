@@ -1,13 +1,13 @@
 ---
 title: NFR Framework
 sections:
-    - Introducao NFR
+    - Introducao ao NFR
     - NFR Performance
     - NFR Portabilidade
     - NFR Usabilidade
 ---
 
-# Introdução {#introducao-nfr}
+# Introdução ao NFR {#introducao-ao-nfr}
 
 O NFR Framework é uma ferramenta utilizada para representar e analisar requisitos não-funcionais utilizando conceitos como softgoals. Seu funcionamento pode ser visualizado por meio da construção de gráficos de interdependência de softgoal (SIG - Softgoal Interdependency Graph).
 
