@@ -5,7 +5,7 @@ date: 2021-04-14
 icon:
   type: fa
   name: fa-file-text-o
-color: blue
+color: green
 sections:
   - /analise/cenarios
   - /analise/verificacao
