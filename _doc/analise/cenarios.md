@@ -4,7 +4,7 @@ sections:
   - Checklist
   - C01 - Fazer login
   - C02 - Vigiar artigo
-  - Dados Percentuais
+  - Acompanhamento Cenarios
 ---
 
 ### Checklist
@@ -190,41 +190,6 @@ sections:
 
 </div>
 
-### Dados Percentuais
+### Acompanhamento Cenarios
 
-#### Cenarios
-
-<div class="table-responsive">
-
-{: .table .table-striped .table-bordered }
-| Cenario | Porcentagem |
-|--|--|
-| C01 | 100% |
-| C02 | 100% |
-| C03 | 100% |
-| C04 | 100% |
-| C05 | 100% |
-| C06 | 100% |
-| C07 | 100% |
-| C08 | 100% |
-
-</div>
-
-#### Questões
-
-<div class="table-responsive">
-
-{: .table .table-striped .table-bordered }
-| Número | Questão | Respostas |
-|--|--|--|
-| 1 | O título é auto-explicativo |  100% |
-| 2 | O objetivo é claro? | 100% |
-| 3 | O ambiente contextualiza o cenário? |  100% |
-| 4 | Os atores foram listados de forma correta? |  100% |
-| 5 | As ações guiam o ator de forma a realizar a tarefa com sucesso? |  100% |
-| 6 | Caso exista, os eventos estão condizentes com o objetivo? |  100% |
-| 7 | A avaliação descreve um comportamento que garante o cumprimento do objetivo? |  100% |
-| 8 | O planejamento induz a realização do objetivo? |  100% |
-| 9 | Os eventos estão dispostos da forma proposta? |  100% |
-
-</div>
+Nenhum problema foi encontrado

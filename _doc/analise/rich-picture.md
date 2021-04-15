@@ -2,7 +2,7 @@
 title: Rich Picture
 sections:
   - R01 - Geral
-  - Dados Percentuais
+  - Acompanhamento Rich Picture
 ---
 
 #### R01 - Geral
@@ -27,13 +27,6 @@ sections:
 
 </div>
 
-### Dados Percentuais
+### Acompanhamento Rich Picture
 
-#### Rich Picture
-
-<div class="table-responsive">
-
-{: .table .table-striped .table-bordered }
-| Cenario | Porcentagem |
-|--|--|
-| R01 | 100% |
+Nenhum problema foi encontrado
