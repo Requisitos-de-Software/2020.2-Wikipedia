@@ -6,7 +6,6 @@ sections:
 ---
 
 ## Referências {#referencias}
-
 .
 ## Histórico de Versão {#historico-de-versao}
 
