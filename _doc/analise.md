@@ -7,6 +7,7 @@ icon:
   name: fa-file-text-o
 color: blue
 sections:
+  - /analise/cenarios
   - /analise/verificacao
   - /analise/versionamento
 ---

@@ -24,5 +24,6 @@ sections:
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
 | 1.0 | 14/04/2021 | Criação da página | Pedro Henrique |
+| 2.0 | 15/04/2021 | Adicionado verificação dos Cenarios | Eduardo Picolo |
 
 </div>
