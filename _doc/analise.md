@@ -8,6 +8,6 @@ icon:
 color: green
 sections:
   - /analise/cenarios
-  - /analise/verificacao
+  - /analise/nfr
   - /analise/versionamento
 ---
