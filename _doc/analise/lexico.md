@@ -11,7 +11,6 @@ sections:
 {: .table .table-striped .table-bordered }
 | Número | Questão | Respostas |
 |--|--|--|
-| 1 | Possui classificação correta? |
 | 1	| Possui sinônimo correto? |
 | 2	| Possui impacto correto? |
 | 3	| Possui noção correta? |
@@ -28,7 +27,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -43,7 +41,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -76,7 +73,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -91,7 +87,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -106,7 +101,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -121,7 +115,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -136,7 +129,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -151,7 +143,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-times fa-lg" style="color: red"></i>
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-times fa-lg" style="color: red"></i>
@@ -170,7 +161,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-times fa-lg" style="color: red"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -189,7 +179,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -204,7 +193,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -219,7 +207,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-times fa-lg" style="color: red"></i>
 | 4	| A ortográfia está correta? | <i class="fa fa-times fa-lg" style="color: red"></i>
@@ -239,7 +226,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -254,7 +240,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -269,7 +254,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -284,7 +268,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -299,7 +282,6 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | Possui classificação correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 1	| Possui sinônimo correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 2	| Possui impacto correto? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 3	| Possui noção correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4	| A ortográfia está correta? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -308,4 +290,4 @@ sections:
 
 ## Acompanhamento
 
-Foi realizado as correções do problemas identificados.
+Foi realizado as correções dos problemas identificados.
