@@ -7,6 +7,7 @@ icon:
   name: fa-cog fa-spin fa-fw
 color: red
 sections:
+    - /validacao/introducao
     - /validacao/informal
     - /validacao/prototipo
 ---
