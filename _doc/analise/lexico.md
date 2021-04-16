@@ -4,20 +4,6 @@ sections:
 
 ---
 
-### Checklist
-
-<div class="table-responsive">
-
-{: .table .table-striped .table-bordered }
-| Número | Questão | Respostas |
-|--|--|--|
-| 1	| Possui sinônimo correto? |
-| 2	| Possui impacto correto? |
-| 3	| Possui noção correta? |
-| 4	| A ortográfia está correta? |
-
-</div>
-
 #### L1 - Artigo
 
 
