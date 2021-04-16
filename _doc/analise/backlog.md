@@ -21,6 +21,8 @@ propõe seis tópicos fundamentais de uma boa User Story:
 </a>
 </div>
 
+A imagem acima foi encontrada no seguinte [link](https://www.linkedin.com/pulse/deep-dive-product-backlog-invest-stories-create-smart-gaurav-sharma-1c)
+
 
 #### Explicando o INVEST
 

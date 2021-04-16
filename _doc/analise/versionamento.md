@@ -24,5 +24,6 @@ sections:
 | 2.0 | 15/04/2021 | Adicionado verificação dos Cenarios | Eduardo Picolo |
 | 3.0 | 15/04/2021 | Adicionado verificação dos NFRs | Pedro Henrique  |
 | 4.0 | 15/04/2021 | Adicionado verificação do Rich Picture | Roberto Nobrega  |
+| 5.0 | 15/04/2021 | Adicionado verificação do Backlog | Matheus Gabriel |
 
 </div>
