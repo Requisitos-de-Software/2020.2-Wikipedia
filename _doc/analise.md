@@ -12,5 +12,6 @@ sections:
   - /analise/rich-picture
   - /analise/verificacao
   - /analise/nfr
+  - /analise/backlog
   - /analise/versionamento
 ---
