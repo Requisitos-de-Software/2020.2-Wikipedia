@@ -13,5 +13,6 @@ sections:
   - /analise/verificacao
   - /analise/nfr
   - /analise/backlog
+  - /analise/casosdeuso
   - /analise/versionamento
 ---
