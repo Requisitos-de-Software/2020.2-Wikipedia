@@ -7,7 +7,9 @@ icon:
   name: fa-file-text-o
 color: green
 sections:
+  - /analise/introducao
   - /analise/cenarios
+  - /analise/rich-picture
   - /analise/verificacao
   - /analise/versionamento
 ---

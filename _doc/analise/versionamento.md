@@ -16,6 +16,12 @@ sections:
 ###### [3] {#label3}
 > FURPS. Disponível [aqui](https://en.wikipedia.org/wiki/FURPS). Acesso em 22 mar. de 2021.
 
+##### [4] {#label4}
+> WIEGERS, Karl; BEATTY, Joy. "Software Requirements". Microsoft Press, 2013.
+
+##### [5] {#label5}
+> MELO, Silvana. "Inspeção de software". Instituto de Computação e Matemática Computacional, Universidade de São Paulo.
+
 ## Histórico de Versão {#historico-de-versao}
 
 <div class="table-responsive">
