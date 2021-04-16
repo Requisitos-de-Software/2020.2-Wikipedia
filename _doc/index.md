@@ -13,5 +13,6 @@ navigation:
   - /priorizacao
   - /modelagem
   - /modelagem-II
-  - /analise
+  - /verificacao
+  - /validacao
 ---

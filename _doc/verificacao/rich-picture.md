@@ -1,8 +1,6 @@
 ---
 title: Rich Picture
 sections:
-  - R01 - Geral
-  - Acompanhamento Rich Picture
 ---
 
 ### R01 - Geral

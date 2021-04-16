@@ -1,8 +1,6 @@
 ---
 title: Cenários
 sections:
-  - Checklist
-  - Acompanhamento Cenarios
 ---
 
 ### Checklist

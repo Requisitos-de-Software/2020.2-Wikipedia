@@ -1,10 +1,6 @@
 ---
 title: NFR Framework
 sections:
-    - NFR Framework - Performance
-    - NFR Framework - Portabilidade
-    - NFR Framework - Usabilidade
-
 ---
 
 

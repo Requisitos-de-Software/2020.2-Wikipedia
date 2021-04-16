@@ -2,8 +2,6 @@
 title: Backlog
 sections:
     - Metodologia 
-    - Resultados 
-
 ---
 
 ## Metodologia

@@ -1,7 +1,6 @@
 ---
 title: Léxico
 sections:
-
 ---
 
 #### L1 - Artigo

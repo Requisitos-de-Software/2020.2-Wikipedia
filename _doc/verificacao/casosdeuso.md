@@ -1,12 +1,6 @@
 ---
 title: Casos de Uso
 sections:
-    - Caso de uso 1
-    - Caso de uso 2
-    - Caso de uso 3
-    - Caso de uso 4
-    - Caso de uso 5
-
 ---
 
 # Caso de uso 1: Wikipédia {#caso-de-uso-1}
