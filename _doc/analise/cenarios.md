@@ -1,5 +1,5 @@
 ---
-title: Cenarios
+title: Cenários
 sections:
   - Checklist
   - Acompanhamento Cenarios

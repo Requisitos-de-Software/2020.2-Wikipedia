@@ -6,8 +6,8 @@ icon:
   name: icon_puzzle_alt
 color: purple
 sections:
-  - /modelagem/cenario
   - /modelagem/lexico
+  - /modelagem/cenario
   - /modelagem/casosdeuso
   - /modelagem/especificacaosuplementar
   - /modelagem/versionamento
