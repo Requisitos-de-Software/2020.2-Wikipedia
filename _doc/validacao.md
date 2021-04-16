@@ -9,4 +9,5 @@ color: red
 sections:
     - /validacao/informal
     - /validacao/prototipo
+    - /validacao/versionamento
 ---
