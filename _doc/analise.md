@@ -9,5 +9,6 @@ color: green
 sections:
   - /analise/cenarios
   - /analise/nfr
+  - /analise/backlog
   - /analise/versionamento
 ---
