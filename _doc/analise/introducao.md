@@ -1,12 +1,9 @@
 ---
 title: Introdução
 sections:
-  - Introdução
   - Metodologia utilizada
   - Separação dos artefatos
 ---
-## Introdução
-
 A verificação de requisitos tem como objetivo garantir que todos os requisitos tenham sido avaliados e estejam de acordo com os padrões de qualidade. A validação certifica que o sistema atende as necessidades e expectativas do cliente (Wiegers e Beatty, 2013).
 
 

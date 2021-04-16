@@ -5,7 +5,7 @@ sections:
   - Acompanhamento Rich Picture
 ---
 
-#### R01 - Geral
+### R01 - Geral
 
 <div class="table-responsive">
 
