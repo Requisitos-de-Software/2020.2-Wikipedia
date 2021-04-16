@@ -31,7 +31,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 <br/>
 
 
-#### L1 - Artigo {#l1}
+#### L1 - Artigo
 
 <div class="table-responsive">
 
@@ -42,7 +42,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L2 - Minhas listas {#l2}
+#### L2 - Minhas listas
 
 <div class="table-responsive">
 
@@ -53,18 +53,18 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L3 - Buscar {#l3}
+#### L3 - Buscar
 
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
 | Classificação | Noção | Impacto | 
 |--|--|--|--|
-| Verbo | Local destinado a pesquisas no sistemas | Permitir que o usuário encontre os artigos de seu interesse |
+| Verbo | Local destinado a pesquisar artigos no sistema | Permitir que o usuário encontre os artigos de seu interesse |
 
 </div>
 
-#### L4 - Região de destaque {#l4}
+#### L4 - Região de destaque
 
 <div class="table-responsive">
 
@@ -75,7 +75,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L5 - Contribuir {#l5}
+#### L5 - Contribuir
 
 <div class="table-responsive">
 
@@ -86,7 +86,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L6 - Doar {#l6}
+#### L6 - Doar
 
 <div class="table-responsive">
 
@@ -97,7 +97,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L7 - Salvar {#l7}
+#### L7 - Salvar
 
 <div class="table-responsive">
 
@@ -108,7 +108,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L8 - Vigiar {#l8}
+#### L8 - Vigiar
 
 <div class="table-responsive">
 
@@ -119,29 +119,29 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L9 - Compartilhar {#l9}
+#### L9 - Compartilhar
 
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
 | Classificação | Noção | Impacto | 
 |--|--|--|--|
-| Verbo | Maneira de um usuário enviar um artigo para outra pessoa |  Permite aos usuários compartilharem um artigo que desejarem |
+| Verbo | Maneira de um usuário enviar um artigo para outra pessoa |  Permite aos usuários compartilhar artigos |
 
 </div>
 
-#### L10 - Personalizar {#l10}
+#### L10 - Personalizar
 
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
 | Classificação | Noção | Impacto | 
 |--|--|--|--|
-| Verbo | Maneira do usuário manter o seu aplicativo da maneira que mais lhe agrada |  Possibilita a todos os usuários personalizarem seu app com mudanças de cor, tamanho da fonte, etc |
+| Verbo | Jeito do usuário manter o seu aplicativo da maneira que mais agrada-lhe |  Possibilita a todos os usuários personalizarem seu app |
 
 </div>
 
-#### L11 - Tópico {#l11}
+#### L11 - Tópico
 
 <div class="table-responsive">
 
@@ -152,7 +152,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L12 - Login {#l12}
+#### L12 - Login
 
 <div class="table-responsive">
 
@@ -163,18 +163,18 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L13 - Etiqueta {#l13}
+#### L13 - Etiqueta
 
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
 | Classificação | Noção | Impacto | 
 |--|--|--|--|
-| Objeto | Palavra ou palavras definidas pelos usuários que definem ou tipificam determinada imagem |  Possibilita que o usuário adicione uma etiqueta a uma imagem, e que visualise imagens com etiquetas |
+| Objeto | Palavra definida pelos usuários que definem ou tipificam determinada imagem |  Possibilita que o usuário adicione uma etiqueta a uma imagem, e que visualize imagens com etiquetas |
 
 </div>
 
-#### L14 - Usuário (sem conta) {#l14}
+#### L14 - Usuário (sem conta)
 
 <div class="table-responsive">
 
@@ -185,7 +185,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L14 - Usuário (com conta) {#l14}
+#### L14 - Usuário (com conta)
 
 <div class="table-responsive">
 
@@ -196,7 +196,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L15 - Histórico {#15}
+#### L15 - Histórico
 
 <div class="table-responsive">
 
@@ -207,7 +207,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L16 - livre {#16}
+#### L16 - Livre
 
 <div class="table-responsive">
 
@@ -218,7 +218,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 
 </div>
 
-#### L17 - Artigo protegido {#17}
+#### L17 - Artigo protegido
 
 <div class="table-responsive">
 
