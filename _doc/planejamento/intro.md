@@ -16,34 +16,31 @@ sections:
 
 ## Introdução {#introducao}
 
-Para o planejamento do projeto de Requisitos de software, foi definino por meio de reuniões os seguintes tópicos:
-*  Metodologia
-*  Cronograma
-*  Horarios de Disponibilidade
-*  Ferramentas
+Para o planejamento do projeto de Requisitos de software, foi definido por meio de reuniões abordando os seguintes tópicos:
+
+* Metodologia
+* Cronograma
+* Horários de Disponibilidade
+* Ferramentas
 
 ## Metodologia
 
-Os próximos tópicos desta página buscam mostrar a maneira de trabalho do grupo, maneira de organização
-fos integrantes do grupo, etc.
+Os próximos tópicos desta página buscam mostrar a maneira de trabalho do grupo, a organização dos integrantes.
 
 ### Kanban {#kanban}
 
 Como metodologia de trabalho nós optamos pelo Kanban, por diversos motivos, como:
-*  Sua facilidade de aplicação no projeto.
-*  Sua boa adaptabilidade para imprevistos que possam ocorrer durante o trabalho.
-*  Facilidade de visualização do trabalho dos demais integrantes.
-*  Melhoria contínua proposta pela metodologia.
 
-Para realização do Kanban do grupo será usado [este quadro no Trello](https://trello.com/b/ww3ulzYy/kanban)
-com o intuito de ser o quadro de atividades da equipe.
+* Sua facilidade de aplicação no projeto.
+* Sua boa adaptabilidade para imprevistos que possam ocorrer durante o trabalho.
+* Facilidade de visualização do trabalho dos demais integrantes.
+* Melhoria contínua proposta pela metodologia.
+
+Para realização do Kanban do grupo será usado [este quadro no Trello](https://trello.com/b/ww3ulzYy/kanban) com o intuito de ser o quadro de atividades da equipe.
 
 ### Democrácia {#democracia}
 
-Todas as escolhas do grupo são feitas democraticamente 
-no grupo do telegram da equipe ou em reunião com todos os membros, 
-onde todos os integrantes debatem sobre as opções de escolhas e depois 
-é feita uma votação utilizando o telegram.
+Todas as escolhas do grupo são feitas democraticamente no grupo do telegram da equipe ou em reunião com todos os membros,onde todos os integrantes debatem sobre as opções de escolhas e depois é feita uma votação utilizando o telegram.
 
 ### Atividades em pares
 
@@ -57,13 +54,13 @@ todas as partes do projeto.
 
 ### Revisão {#revisao}
 
-Durante o decorrer do projeto será atribuido a tarefa de revisar o trabalho
-feito durante o período entre entregas, visando assim uma maior qualidade 
+Durante o decorrer do projeto será atribuído a tarefa de revisar o trabalho
+feito durante o período entre entregas, visando assim uma maior qualidade
 do projeto que será entregue ao fim.
 
 ## Cronograma
 
-No conograma decidimos por anteceder a finalização das etapas do projeto dois dias antes da data de entrega para que haja tempo para solução de possíveis imprevistos.
+No cronograma decidimos por anteceder a finalização das etapas do projeto dois dias antes da data de entrega para que haja tempo para solução de possíveis imprevistos.
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;margin: 2rem auto">
   ![screenshot](assets/images/Cronograma.png){: .img-responsive}
@@ -79,13 +76,7 @@ Para identificar os horários mais adequados para nossos encontros foi realizado
 
 ## Ferramentas
 
-A seguir estão listados os principais softwares que utilizaremos.
-
-## Ferramentas
-
-<div style="text-align: justify;">
-A seguir estão listados os principais softwares que utilizaremos.
-</div>
+A seguir estão listados os principais softwares que utilizaremos, além do aplicativo do Wikipéia (versão Android), que possui uma descrição no [*card* sobre o projeto](https://requisitos-de-software.github.io/2020.2-Wikipedia/about.html).
 
 <div class="table-responsive">
 
@@ -99,6 +90,7 @@ A seguir estão listados os principais softwares que utilizaremos.
 | ![Github](assets/images/logos/Github.png)  | [Github](https://github.com/) | Versionamento do projeto |
 | ![Telegram](assets/images/logos/Telegram.png)  | [Telegram](https://telegram.org/) | Comunicação rápida e mais informal |
 | ![Draw.io](assets/images/logos/Draw-io.png)  | [Diagrams.net](https://telegram.org/) | Criação de diagramas |
+| ![YouTube](assets/images/logos/YouTube.png)  | [Youtube](https://telegram.org/) | Disponibilização dos vídeos de apresentação do [*card* apresentação](https://requisitos-de-software.github.io/2020.2-Wikipedia/apresentacoes.html) |
 
 </div>
 
@@ -116,4 +108,4 @@ A seguir estão listados os principais softwares que utilizaremos.
 | 1.2 | 19/02/2021 | Adição de conteúdo sobre metodologia | Matheus Gabriel |
 | 1.2.1 | 19/02/2021 | Pequenas correções | Igor Queiroz |
 | 1.3.0 | 03/03/2021 | Adição de conteúdo sobre forma de trabalho do grupo| Matheus Gabriel|
-
+| 1.3.1 | 19/02/2021 | Adição ferramentas | Igor Queiroz |
