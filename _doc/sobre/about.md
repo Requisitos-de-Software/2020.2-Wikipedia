@@ -1,22 +1,31 @@
 ---
-title: Sobre o projeto
+title: >
 sections:
    - A disciplina
    - Wikipedia
    - Equipe
 ---
-Trabalho realizado na disciplina de Requisitos de Software da Universidade de Brasília no período de 2020/2
+Trabalho realizado na disciplina de Requisitos de Software da Universidade de Brasília no período de 2020/2 (segundo semestre do ano de 2020)
 
 ### A disciplina
+
 Engenharia de Requisitos é o ramo da engenharia de Software responsável por elicitar, modelar, validar e rastrear toda a vida útil de requisito ao decorrer de um projeto. A área é importante tendo em vista que a maior parte dos produtos de software que fracassaram ocorrem devido as más elicitações de requisitos.
 
-### Wikipedia
+### Wikipédia {#wikipedia}
+
+Nosso objeto de estudo refere-se ao aplicativo da Wikipédia (versão Android) que pode ser instalado em seu smartphone pelas lojas:
+
+* [Google Play](https://play.google.com/store/apps/details?id=org.wikipedia&hl=pt_BR&gl=US)
+* [Amazon App Store](https://f-droid.org/pt/packages/org.wikipedia/)
+* [F-Droid](https://www.amazon.com.br/Wikimedia-Foundation-Wikipedia/dp/B0088P2A7A/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=wikipedia&qid=1619966201&s=mobile-apps&sr=1-1)
+
 A Wikipédia é um projeto de enciclopédia multilíngue de licença livre, baseado na web e escrito de maneira colaborativa.
 O projeto encontra-se sob administração da Fundação Wikimedia, uma organização sem fins lucrativos cuja missão é "empoderar e engajar pessoas pelo mundo para coletar e desenvolver conteúdo educacional sob uma licença livre ou no domínio público, e para disseminá-lo efetivamente e globalmente".
 Quase todos os verbetes presentes no sítio eletrônico podem igualmente ser editados por qualquer pessoa com acesso à internet e ao endereço eletrônico.
 
 ### Equipe
-Equipe composta por 6 membros, responsaveis por aplicar os conhecimentos e tecnicas desenvolvidos na matéria.
+
+Equipe composta por 6 membros, responsáveis por aplicar os conhecimentos e técnicas desenvolvidos na matéria.
 
 <div style="display: flex; justify-content: space-evenly; flex-wrap: wrap">
 

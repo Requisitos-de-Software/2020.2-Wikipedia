@@ -4,7 +4,7 @@ excerpt: Validação das atividades já desenvolvidas de acordo com os seus requ
 date: 2021-04-16
 icon:
   type: fa
-  name: fa-cog fa-spin fa-fw
+  name: fa-check fa-fw
 color: red
 sections:
     - /validacao/informal

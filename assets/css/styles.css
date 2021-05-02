@@ -128,7 +128,7 @@ input[type="text"], input[type="email"], input[type="password"], input[type="sub
 .doc-section h5 { font-size: 16px; font-weight: bold; }
 .doc-section h6 { font-size: 14px; font-weight: bold; }
 
-.section-block { padding-top: 15px; padding-bottom: 15px; }
+.section-block { padding-top: 15px; padding-bottom: 15px; text-align: justify; }
 .section-block .block-title { margin-top: 0; }
 .section-block .list > li { margin-bottom: 10px; }
 .section-block .list ul > li { margin-top: 5px; }
