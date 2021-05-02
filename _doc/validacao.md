@@ -7,6 +7,8 @@ icon:
   name: fa-check fa-fw
 color: red
 sections:
+    - /validacao/introducao
     - /validacao/informal
     - /validacao/prototipo
+    - /validacao/versionamento
 ---
