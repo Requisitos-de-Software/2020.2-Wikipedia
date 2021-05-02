@@ -1,6 +1,6 @@
 ---
 title: Modelagem II
-excerpt: Apresenta Epicos, Features e estorias de usuario
+excerpt: Apresenta Épicos, Features e estorias de usuário
 date: 2021-03-31
 icon:
   name: icon_puzzle_alt

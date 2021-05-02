@@ -24,6 +24,10 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
 </a>
 </div>
 
+<p style="text-align: center; font-Weight: bold; font-style: italic;">
+    Figura 1 - Caso de uso Wikipédia. Própria Autoria.
+</p><br/>
+
 ## Caso de uso 2: Buscar artigo {#caso-de-uso-2}
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
@@ -33,6 +37,11 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
 <a class="mask" href="assets/images/casosdeuso/Buscar_artigo.png" data-title="Caso de uso buscar artigo" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i>
 </a>
 </div>
+
+<p style="text-align: center; font-Weight: bold; font-style: italic;">
+    Figura 2 - Caso de uso buscar artigo. Própria Autoria.
+</p><br/>
+
 
 ### Especificação:
 
@@ -75,6 +84,10 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
 <a class="mask" href="assets/images/casosdeuso/Contribuir_em_artigo.png" data-title="Caso de uso contribuir em artigo" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i>
 </a>
 </div>
+
+<p style="text-align: center; font-Weight: bold; font-style: italic;">
+    Figura 3 - Caso de uso contribuir em artigo. Própria Autoria.
+</p><br/>
 
 ### Especificação:
 
@@ -135,6 +148,10 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
 </a>
 </div>
 
+<p style="text-align: center; font-Weight: bold; font-style: italic;">
+    Figura 4 - Caso de uso realizar login. Própria Autoria.
+</p><br/>
+
 ### Especificação:
 
 * **Ator(es):**
@@ -184,6 +201,10 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
 <a class="mask" href="assets/images/casosdeuso/Salvar_artigo.png" data-title="Caso de uso salvar artigo" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i>
 </a>
 </div>
+
+<p style="text-align: center; font-Weight: bold; font-style: italic;">
+    Figura 5 - Caso de uso salvar artigo. Própria Autoria.
+</p><br/>
 
 ### Especificação:
 
