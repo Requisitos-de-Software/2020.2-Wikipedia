@@ -20,7 +20,7 @@ A Wikipédia é uma enciclopédia livre que contém mais de 32 milhões de artig
 
 FURPS+ é um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos, assim como representa atributos de Qualidade de Software, sendo ele parte do Rational Unified Process (RUP): [[3]](#label3)
 
-**F**unctionality (Funcionalidade): Representa todo aspecto funcional do software, ou seja seus requisitos. Sua medição considera, principalmente, o cumprimento dos requesitos especificados.
+**F**unctionality (Funcionalidade): Representa todo aspecto funcional do software, ou seja seus requisitos. Sua medição considera, principalmente, o cumprimento dos requisitos especificados.
 
 **U**sability (Usabilidade): É o atributo que avalia a interface com o usuário. Possui diversas subcategorias, entre elas: prevenção de erros; estética e design; ajudas e documentação; consistência e padrões.
 
@@ -42,13 +42,13 @@ FURPS+ é um sistema para a classificação de requisitos, o acrônimo represent
  - Wikipédia Zero: Taxa de dados dispensada para operadores móveis participantes.
 
 2. Usabilidade
- - Paginas usam o formato *wikitext* da MediaWiki, para que usuarios sem conhecimento de HTML ou CSS possam edita-las facilmente;
+ - Paginas usam o formato *wikitext* da MediaWiki, para que usuários sem conhecimento de HTML ou CSS possam edita-las facilmente;
  - A aplicação segue padrões para cores, espaçamentos e formas;
  - A aplicação da feedbacks de erros para seus usuários.
 
 3. Confiabilidade
- - O usuario poderá enviar relatorios de travamento, contento onde o travamento se originou no código e outras informações de diagnóstico, como a versão do iOS e o tipo de dispositivo. Esta informação não inclui e não está ligada à conta de usuário da Wikimedia ou atividade na wiki, como ler ou editar o histórico;
- - O sistema não deverá rastrear o usuario, exceto se o usuario permitir.
+ - O usuário poderá enviar relatórios de travamento, contento onde o travamento se originou no código e outras informações de diagnóstico, como a versão do iOS e o tipo de dispositivo. Esta informação não inclui e não está ligada à conta de usuário da Wikimedia ou atividade na wiki, como ler ou editar o histórico;
+ - O sistema não deverá rastrear o usuário, exceto se o usuário permitir.
 
 4. Portabilidade
  - O sistema deverá funcionar nos navegadores de internet em geral, assim como em dispositivos capazes de acessar a internet, que suportem os demais navegadores e, também, que estejam equipados com sistema Android e iOS, ou seja, se adaptando visualmente à esses sistemas;
@@ -56,11 +56,11 @@ FURPS+ é um sistema para a classificação de requisitos, o acrônimo represent
 
 5. Desempenho
  - Desenvolvido para rodar em uma grande agregação de servidores para um website que é acessado milhões de vezes por dia;
- - Software escalavel para mostrar dados salvos no banco de dados.
+ - Software escalável para mostrar dados salvos no banco de dados.
 
 6. Suportabilidade
  - O código é totalmente aberto;
- - Disponivel para dispositivos moveis com sistema Android ou iOS.
+ - Disponível para dispositivos moveis com sistema Android ou iOS.
 
 7. Privacidade
- - Somente se o usuario ativar durante a configuração do aplicativo ou via Habilitar coleta de dados no menu Configurações. Para usuários autorizados, o aplicativo rastreará algumas das ações e enviará relatórios de falhas. Em nenhum caso as informações serão compartilhadas com terceiros.
+ - Somente se o usuário ativar durante a configuração do aplicativo ou via Habilitar coleta de dados no menu Configurações. Para usuários autorizados, o aplicativo rastreará algumas das ações e enviará relatórios de falhas. Em nenhum caso as informações serão compartilhadas com terceiros.

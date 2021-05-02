@@ -12,8 +12,8 @@ sections:
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | O fluxo do diagrama faz sentido? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 2 | Os softgoals fazem sentido de acordo com o contexto do diagrama? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 3 | Os softgoals utilizados foram suficientes ? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
+| 2 | Os *softgoals* fazem sentido de acordo com o contexto do diagrama? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
+| 3 | Os *softgoals* utilizados foram suficientes ? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4 | A notação referente ao diagrama está correta? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 5 | Possui todas as operacionalizações necessárias ? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 6 | A propagação de impactos faz sentido? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -36,8 +36,8 @@ O artefato pode ser encontrado [aqui](https://requisitos-de-software.github.io/2
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | O fluxo do diagrama faz sentido? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 2 | Os softgoals fazem sentido de acordo com o contexto do diagrama? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 3 | Os softgoals utilizados foram suficientes ? | <i class="fa fa-times fa-lg" style="color: red"></i> |
+| 2 | Os *softgoals* fazem sentido de acordo com o contexto do diagrama? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
+| 3 | Os *softgoals* utilizados foram suficientes ? | <i class="fa fa-times fa-lg" style="color: red"></i> |
 | 4 | A notação referente ao diagrama está correta? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 5 | Possui todas as operacionalizações necessárias ? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 6 | A propagação de impactos faz sentido? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
@@ -48,7 +48,7 @@ O artefato pode ser encontrado [aqui](https://requisitos-de-software.github.io/2
 
 </div>
 
-__Possível solução para o número 3:__ Utilização de softgoals de afirmação (claims) para esclarescer/justificar o softgoal de "implementação multiplataforma".
+__Possível solução para o número 3:__ Utilização de *softgoals* de afirmação (claims) para esclarecer/justificar o *softgoal* de "implementação multiplataforma".
 
 O artefato pode ser encontrado [aqui](https://requisitos-de-software.github.io/2020.2-Wikipedia/modelagem-II.html#nfr-portabilidade)
 
@@ -60,8 +60,8 @@ O artefato pode ser encontrado [aqui](https://requisitos-de-software.github.io/2
 | Número | Questão | Respostas |
 |--|--|--|
 | 1 | O fluxo do diagrama faz sentido? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 2 | Os softgoals fazem sentido de acordo com o contexto do diagrama? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
-| 3 | Os softgoals utilizados foram suficientes ? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
+| 2 | Os *softgoals* fazem sentido de acordo com o contexto do diagrama? | <i class="fa fa-check fa-lg" style="color: #089969"></i> |
+| 3 | Os *softgoals* utilizados foram suficientes ? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 4 | A notação referente ao diagrama está correta? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 5 | Possui todas as operacionalizações necessárias ? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |
 | 6 | A propagação de impactos faz sentido? |  <i class="fa fa-check fa-lg" style="color: #089969"></i> |

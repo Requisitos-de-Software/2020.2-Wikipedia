@@ -6,10 +6,7 @@ sections:
 
 ## Metodologia
 
-
-Para verificar o Backlog elaboramos uma tabela com os
-tópicos definidos na metodologia INVEST que 
-propõe seis tópicos fundamentais de uma boa User Story:
+Para verificar o Backlog elaboramos uma tabela com os tópicos definidos na metodologia INVEST que propõe seis tópicos fundamentais de uma boa User Story:
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
 <a href="assets/images/invest.png" data-title="INVEST" data-toggle="lightbox">
@@ -19,7 +16,9 @@ propõe seis tópicos fundamentais de uma boa User Story:
 </a>
 </div>
 
-A imagem acima foi encontrada no seguinte [link](https://www.linkedin.com/pulse/deep-dive-product-backlog-invest-stories-create-smart-gaurav-sharma-1c)
+<p style="text-align: center; font-Weight: bold; font-style: italic;">
+    Figura 1 - Mnemônico INVEST. Disponível [aqui](https://www.linkedin.com/pulse/deep-dive-product-backlog-invest-stories-create-smart-gaurav-sharma-1c)
+</p><br/>
 
 
 #### Explicando o INVEST
@@ -60,4 +59,3 @@ A imagem acima foi encontrada no seguinte [link](https://www.linkedin.com/pulse/
 </div>
 
 <br/>
-

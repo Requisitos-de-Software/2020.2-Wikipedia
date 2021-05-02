@@ -61,7 +61,7 @@ O resultado foi as personas abaixo:
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
-| **Antipersona:** | Wesley Alan Braz
+| **Antipersona 1:** | Wesley Alan Braz
 |-|
 | **Foto:** | ![Persona 3](assets/images/personas/Persona3.jpeg) | 
 | **Idade:** | 34 anos
@@ -76,7 +76,7 @@ O resultado foi as personas abaixo:
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
-| **Persona:** | Lorenzo Borges da Costa
+| **Antipersona 2:** | Lorenzo Borges da Costa
 |-|
 | **Foto:** | ![Persona 4](assets/images/personas/Persona4.jpeg) | 
 | **Idade:** | 28 anos
@@ -112,12 +112,12 @@ RFN: Requisito Não Funcional.
 | RF3 | A aplicação deve permitir que o usuário possa mudar sua senha.
 | RF4 | A aplicação deve permitir que o usuário possa recuperar sua senha.
 | RF5 | A aplicação deve permitir que o usuário possa pesquisa artigos.
-| RF6 | A aplicação deve permitir que o usuário possa visualisar artigos offline.
+| RF6 | A aplicação deve permitir que o usuário possa visualizar artigos offline.
 | RF7 | A aplicação deve permitir que o usuário possa ver o histórico de artigos acessados.
 | RF8 | A aplicação deve permitir que o usuário possa apagar o histórico de artigos acessados.
 | RF9 | A aplicação deve permitir que o usuário possa compartilhar artigos.
 | RF10 | A aplicação deve permitir que o usuário possa editar artigos.
-| RF11 | A aplicação deve permitir que o usuário possa visualisar suas edições de artigos.
+| RF11 | A aplicação deve permitir que o usuário possa visualizar suas edições de artigos.
 | RF12 | A aplicação deve avisar ao usuário quando uma contribuição foi revertida.
 | RF13 | A aplicação deve recomendar artigos ao usuário.
 | RF14 | A aplicação deve permitir que o usuário possa alterar o tema da aplicação.
@@ -145,10 +145,9 @@ Devido às restrições de interação restringidas em decorrência à pandemia 
 
 Outro ponto é a facilidade de aplicação dessa técnica e também devido a simplicidade do aplicativo tornar essa opção viável.
 
-#### O que o grupo esperava com o questionário?
+#### O que o grupo espera com o questionário?
 
-O grupo espera com a utilização desta técnica de elicitação uma coleta de dados de diversas pessoas com o intuito de constatar
-alguns requisitos do sistema baseado nas respostas dos usuários.
+O grupo espera com a utilização desta técnica de elicitação uma coleta de dados de diversas pessoas com o intuito de constatar alguns requisitos do sistema baseado nas respostas dos usuários.
 
 #### Metodologias e técnicas utilizadas
 
@@ -205,14 +204,15 @@ encontrados. Outro motivo é que a mesma garante a participação de todos os in
 
 #### Tema do Brainstorm
 
-Os temas que guiaram as reuniões de Brainstorm foram: 
-- Possiveis funcionalidades que seriam utilizadas por usuários dispostos a editar artigos.
-- Possiveis funcionalidades que seriam utilizadas por usuários que apenas buscam informações em artigos.
-- Possiveis funcionalidades que oferecem comodidade a todos os usuários.
+Os temas que guiaram as reuniões de Brainstorm foram:
+
+- Possíveis funcionalidades que seriam utilizadas por usuários dispostos a editar artigos.
+- Possíveis funcionalidades que seriam utilizadas por usuários que apenas buscam informações em artigos.
+- Possíveis funcionalidades que oferecem comodidade a todos os usuários.
 
 ### 1° sessão do Brainstorm - Requisitos Elicitados
 
-__Legenda:__ <br>RF: Requisito Funcional.<br>RFN: Requisito Não Funcional.
+__Legenda:__ <br> RF: Requisito Funcional. <br>RFN: Requisito Não Funcional.
 
 ##### Requisitos Funcionais
 

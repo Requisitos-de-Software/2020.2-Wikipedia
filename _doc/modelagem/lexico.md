@@ -71,7 +71,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 {: .table .table-striped .table-bordered}
 | Classificação | Noção | Impacto | 
 |--|--|--|--|
-| Objeto | Local destinado a mostrar artigos em destaque | Permitir o usuário visulisar rapidamente artigos baseado no comportamento da maioria dos usuários e outros fatores como localização, histótico de acesso, data |
+| Objeto | Local destinado a mostrar artigos em destaque | Permitir o usuário visualizar rapidamente artigos baseado no comportamento da maioria dos usuários e outros fatores como localização, histórico de acesso, data |
 
 </div>
 
@@ -82,7 +82,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 {: .table .table-striped .table-bordered}
 | Classificação | Noção | Impacto | 
 |--|--|--|--|
-| Verbo | Maneira do usuário contribuir com assuntos de seu dominio | Permite uma construção de artigos de maneira colaborativa entre os usuários |
+| Verbo | Maneira do usuário contribuir com assuntos de seu domínio | Permite uma construção de artigos de maneira colaborativa entre os usuários |
 
 </div>
 
@@ -148,7 +148,7 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 {: .table .table-striped .table-bordered}
 | Classificação | Noção | Impacto | 
 |--|--|--|--|
-| Objeto | Espaço para realização de discuções |  Possibilita que os usuários discutam sobre um artigo ou perfil |
+| Objeto | Espaço para realização de discussões |  Possibilita que os usuários discutam sobre um artigo ou perfil |
 
 </div>
 
@@ -225,6 +225,6 @@ Léxicos levantados pelo grupo tendo em vista o projeto do aplicativo e suas fun
 {: .table .table-striped .table-bordered}
 | Classificação | Noção | Impacto | 
 |--|--|--|--|
-| Objeto | Artigo que necessita de previlégios para contribuir |  Impossibilita que o usuário contribua com certos artigos |
+| Objeto | Artigo que necessita de privilégios para contribuir |  Impossibilita que o usuário contribua com certos artigos |
 
 </div>

@@ -100,7 +100,7 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
 * **Fluxo de exceção (Acessar artigo)**
     1. O ator acessa um artigo.
     2. O sistema apresenta opções de contribuições na página.
-    3. O ator clica em "ADICIONAR TÍTULO DE DESCRIÇÂO".
+    3. O ator clica em "ADICIONAR TÍTULO DE DESCRIÇÃO".
     4. O sistema apresenta uma mensagem informando que o artigo é protegido. Saiba mais [aqui](https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_protegida).
     <br><br>
 * **Fluxo de evento principal: (Exibir estatísticas de contribuição)**
@@ -191,7 +191,7 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
     * Usuário.
     <br><br>
 * **Pré-condição:**
-    * O ator deve estar visualisando um artigo.
+    * O ator deve estar visualizando um artigo.
     <br><br>
 * **Fluxo de evento principal: (salvar artigo)**
     1. O ator clica no ícone descrito "salvar".
@@ -203,7 +203,7 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
             1. O ator seleciona a lista no qual será salva o artigo.
             2. O ator clica no ícone descrito "Criar nova".
                 1. O ator digita o nome da nova lista.
-                2. O ator digita a decrição (opcional) da nova lista.
+                2. O ator digita a descrição (opcional) da nova lista.
         2. O ator clica em "Adicionar a outra lista de leitura".
     4. O artigo e salvo na lista escolhida pelo usuário.
     <br><br>
@@ -220,9 +220,9 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
         1. O ator seleciona a lista no qual será salva o artigo.
         2. O ator clica no ícone descrito "Criar nova".
             1. O ator digita o nome da nova lista.
-            2. O ator digita a decrição (opcional) da nova lista.
+            2. O ator digita a descrição (opcional) da nova lista.
     3. O artigo e movida para a lista escolhida pelo usuário.
     <br><br>
 * **Pós-condição:**
-    O artigo será salvo/movido/removido de uma lista que foi selicionada pelo usuário.
+    O artigo será salvo/movido/removido de uma lista que foi selecionado pelo usuário.
     <br><br>

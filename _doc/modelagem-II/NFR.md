@@ -9,26 +9,26 @@ sections:
 
 # Introdução ao NFR {#introducao-ao-nfr}
 
-O NFR Framework é uma ferramenta utilizada para representar e analisar requisitos não-funcionais utilizando conceitos como softgoals. Seu funcionamento pode ser visualizado por meio da construção de gráficos de interdependência de softgoal (SIG - Softgoal Interdependency Graph).
+O NFR Framework é uma ferramenta utilizada para representar e analisar requisitos não-funcionais utilizando conceitos como *softgoals*. Seu funcionamento pode ser visualizado por meio da construção de gráficos de interdependência de *softgoal* (SIG - Softgoal Interdependency Graph).
 
 ### Tipos de SoftGoal
 
-Existem 3 tipos de softgoal:<br><br>
+Existem 3 tipos de *softgoal*:<br><br>
 
 __Softgoals NFR:__
-Os softgoals NFR representam exatamente os requisitos funcionais.
+Os *softgoals* NFR representam exatamente os requisitos funcionais.
 <div class="screenshot-holder" style="display: flex; justify-content: left;margin: 2rem auto">
   ![screenshot](assets/images/nfr/softgoal.png){: .img-responsive}
 </div>
 
-__Softgoals de operalização:__
-Os softgoals de operalização representam soluções de implementações que satisfazem os softgoals NFR ou outros softgoals de operalização.
+__Softgoals de operacionalização:__
+Os *softgoals* de operacionalização representam soluções de implementações que satisfazem os *softgoals* NFR ou outros *softgoals* de operacionalização.
 <div class="screenshot-holder" style="display: flex; justify-content: left;margin: 2rem auto">
   ![screenshot](assets/images/nfr/operalizacao.png){: .img-responsive}
 </div>
 
 __Softgoals de afirmação:__
-Os softgoals de afirmação são softgoals que dão razões para as decisões de desenvolvimento.
+Os *softgoals* de afirmação são *softgoals* que dão razões para as decisões de desenvolvimento.
 <div class="screenshot-holder" style="display: flex; justify-content: left;margin: 2rem auto">
   ![screenshot](assets/images/nfr/claim.png){: .img-responsive}
 </div>

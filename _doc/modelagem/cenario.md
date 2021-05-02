@@ -5,7 +5,7 @@ sections:
    - Cenarios
 ---
 
-É uma narrativa textual rica em detalhes contextual, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais. Cenários são poderesos, requerem menos tempo quando comparados a modelos e protótipos complexos.
+É uma narrativa textual rica em detalhes contextual, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais. Cenários são poderosos, requerem menos tempo quando comparados a modelos e protótipos complexos.
 
 ## Template
 
@@ -25,7 +25,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 </div>
 
-## Cenarios
+## Cenários {#cenarios}
 
 #### Fazer login
 
@@ -66,7 +66,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 {: .table .table-striped .table-bordered}
 | Elemento | Resposta |
 |--|--|
-| **Objetivo** | Contribuir em um artigo no qual o usuário possua dominio |
+| **Objetivo** | Contribuir em um artigo no qual o usuário possua domínio |
 | **Contexto** | Estar conectado na internet |
 | **Atores** | Usuário |
 | **Recursos** | Internet<br>Recomendado possuir conta e ter efetuado login |
@@ -82,12 +82,12 @@ Template adotado pelo grupo para a documentação de seus cenários:
 {: .table .table-striped .table-bordered}
 | Elemento | Resposta |
 |--|--|
-| **Objetivo** | Contribuir em um artigo no qual o usuário possua dominio |
+| **Objetivo** | Contribuir em um artigo no qual o usuário possua domínio |
 | **Contexto** | Estar conectado na internet |
 | **Atores** | Usuário |
 | **Recursos** | Internet<br>Recomendado ter conta |
 | **Exceção** | Ficar sem conexão durante o processo<br>Artigo ser uma página protegida |
-| **Episódios** | O usuário abre o aplicativo<br>Clica no icone descrito como "Edições"<br>Selociona a forma que quer contribuir<br>Adiciona o conteúdo que deseja adicionar em um artigo |
+| **Episódios** | O usuário abre o aplicativo<br>Clica no ícone descrito como "Edições"<br>Seleciona a forma que quer contribuir<br>Adiciona o conteúdo que deseja adicionar em um artigo |
 
 
 </div>
@@ -120,7 +120,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 | **Atores** | Usuário |
 | **Recursos** | Internet |
 | **Exceção** | - |
-| **Episódios** | O usuário abre o aplicativo<br>Clica no icone descrito como "Mais"<br>Clica em "Sair" |
+| **Episódios** | O usuário abre o aplicativo<br>Clica no ícone descrito como "Mais"<br>Clica em "Sair" |
 
 </div>
 
@@ -134,9 +134,9 @@ Template adotado pelo grupo para a documentação de seus cenários:
 | **Objetivo** | Criar uma lista para organizar artigos salvos |
 | **Contexto** | Estar com o aplicativo aberto<br>Recomendado ter efetuado login |
 | **Atores** | Usuário |
-| **Recursos** | Recomendao ter acesso a internet<br>Recomendado ter conta de usuário  |
+| **Recursos** | Recomendado ter acesso a internet<br>Recomendado ter conta de usuário  |
 | **Exceção** | - |
-| **Episódios** | O usuário abre o aplicativo<br>Clica no icone descrito como "Minhas listas"<br>Clica em "⋮" e depois em "Criar nova lista"<br>Digita o nome da nova lista |
+| **Episódios** | O usuário abre o aplicativo<br>Clica no ícone descrito como "Minhas listas"<br>Clica em "⋮" e depois em "Criar nova lista"<br>Digita o nome da nova lista |
 
 </div>
 
@@ -150,7 +150,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 | **Objetivo** | Criar uma lista para organizar artigos salvos |
 | **Contexto** | Estar com o aplicativo aberto<br>Recomendado ter efetuado login |
 | **Atores** | Usuário |
-| **Recursos** | Recomendao ter acesso a internet<br>Recomendado ter conta de usuário |
+| **Recursos** | Recomendado ter acesso a internet<br>Recomendado ter conta de usuário |
 | **Exceção** | - |
 | **Episódios** | O usuário abre o aplicativo<br>Seleciona um artigo em que deseja salvar<br>Clica no ícone descrito "Salvar"<br>O usuário clica em "ADICIONAR À LISTA"<br>Clica em "Criar nova"<br>Digita o nome da nova lista para ser salvo o artigo |
 

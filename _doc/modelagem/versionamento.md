@@ -27,7 +27,7 @@ sections:
 | 1.1 | 20/03/2021 | Adição parcial dos resultados de caso de uso | Igor Queiroz |
 | 2.0 | 20/03/2021 | Criação especificação suplementar | Kess Jhones |
 | 2.1 | 20/03/2021 | Adição de conteúdo relativo aos casos de uso | Pedro Henrique |
-| 3.0 | 20/03/2021 | Finalicação do topico Especificação suplementar  | Eduardo Picolo |
+| 3.0 | 20/03/2021 | Finalização do tópico Especificação suplementar  | Eduardo Picolo |
 | 3.1 | 20/03/2021 | Revisão dos léxicos | Igor Queiroz |
 | 4.0 | 20/03/2021 | Criação dos cenários | Matheus Gabriel e Igor Queiroz |
 

@@ -62,7 +62,7 @@ Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para que eu consiga < UMA 
 | Código da estória de usuário | Descrição | Critérios de aceitação |
 |--|--|--|
 | US1 | Como usuário, eu quero realizar o meu cadastro no app, para que eu possa usufruir todas as funcionalidades do app. | **A aplicação deve:**<br>- Mostrar o formulário de submissão |
-| US2 | Como usuário, eu quero fazer login, para que eu possa usufruir todas as funcionalidades do app. | **A aplicação deve:**<br>- Mostrar formulario de login<br>- Mostrar opção de esqueci minha senha<br>- Mostrar opção de cadastrar-se |
+| US2 | Como usuário, eu quero fazer login, para que eu possa usufruir todas as funcionalidades do app. | **A aplicação deve:**<br>- Mostrar formulário de login<br>- Mostrar opção de esqueci minha senha<br>- Mostrar opção de cadastrar-se |
 | US3 | Como usuário, eu quero fazer contribuições em artigos que eu possua conhecimento, para que eu possa compartilhar conhecimento com outros | **O artigo deve:**<br>- Ser colaborativo<br>**O usuário deve:**<br>- Possuir ranking suficiente para o artigo em questão |
 | US4 | Como usuário, eu quero acessar as edições que realizei, para facilitar o acesso a estes artigos | **O usuário deve:**<br>- Possuir conta no sistema<br>- Estar logado |
 | US5 | Como usuário, eu quero receber notificações sobre minhas edições, para que eu possa saber sobre o andamento delas |**O usuário deve:**<br>- Possuir conta no sistema<br>- Estar logado |

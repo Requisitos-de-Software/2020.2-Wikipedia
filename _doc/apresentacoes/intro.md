@@ -5,6 +5,7 @@ sections:
     - Elicitacao e priorizacao de requisitos
     - Modelagem
     - Modelagem II
+    - Verificacao e Validacao
 ---
 
 ## Planejamento
@@ -30,3 +31,10 @@ sections:
 <div class="embed-responsive embed-responsive-16by9">
    <iframe width="609" height="343" src="https://www.youtube.com/embed/HV0vZoELsdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+## Verificação e Validação {#verificacao-e-validacao}
+
+<div class="embed-responsive embed-responsive-16by9">
+   
+</div>
+
