@@ -36,7 +36,7 @@ Como metodologia de trabalho nós optamos pelo Kanban, por diversos motivos, com
 * Facilidade de visualização do trabalho dos demais integrantes.
 * Melhoria contínua proposta pela metodologia.
 
-Para realização do Kanban do grupo será usado [este quadro no Trello](https://trello.com/b/ww3ulzYy/kanban) com o intuito de ser o quadro de atividades da equipe.
+Para realização do Kanban do grupo será usado um quadro no [Trello](https://trello.com/) com o intuito de ser o quadro de atividades da equipe.
 
 ### Democrácia {#democracia}
 
@@ -76,7 +76,7 @@ Para identificar os horários mais adequados para nossos encontros foi realizado
 
 ## Ferramentas
 
-A seguir estão listados os principais softwares que utilizaremos, além do aplicativo do Wikipéia (versão Android), que possui uma descrição no [*card* sobre o projeto](https://requisitos-de-software.github.io/2020.2-Wikipedia/about.html).
+A seguir estão listados os principais softwares que utilizaremos, além do [Trello](https://trello.com/) e do aplicativo do Wikipéia (versão Android), que possui uma descrição no [*card* sobre o projeto](https://requisitos-de-software.github.io/2020.2-Wikipedia/about.html).
 
 <div class="table-responsive">
 
