@@ -73,6 +73,21 @@ O resultado foi as personas abaixo:
 
 </div>
 
+<div class="table-responsive">
+
+{: .table .table-striped .table-bordered}
+| **Persona:** | Lorenzo Borges da Costa
+|-|
+| **Foto:** | ![Persona 4](assets/images/personas/Persona4.jpeg) | 
+| **Idade:** | 28 anos
+| **Ocupação:** | Pesquisador de Ciências Sociais, editor experiente do wikipédia
+| **Objetivo(s):** | Procurar ajudar a comunidade do wikipédia de forma orgânica.<br>Acredita que um modelo de desenvolvimento aberto ajuda a criar bons conteúdos.<br>Gosta de debater e se envolver em decisões da comunidade.
+| **Habilidade(s)** | Inglês intermediário, cientista político, <i>soft skills</i>(habilidades interpessoais).
+| **Relacionamento(s):** | Possui contato com outros editores experientes do wikipédia.
+| **Expectativas** | Espera visualizar histórico de edição dos artigos.<br>Espera que possa realizar discussões sobre um artigo.<br>Espera poder conversar com outros editores facilmente.
+
+</div>
+
 As fotos foram retiradas do site [thispersondoesnotexist.com](thispersondoesnotexist.com).
 
 ## Introspecção {#introspeccao}
