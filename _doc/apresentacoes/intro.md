@@ -6,6 +6,7 @@ sections:
     - Modelagem
     - Modelagem II
     - Verificacao e Validacao
+    - Entrega Final
 ---
 
 ## Planejamento
@@ -35,6 +36,11 @@ sections:
 ## Verificação e Validação {#verificacao-e-validacao}
 
 <div class="embed-responsive embed-responsive-16by9">
-   
+<iframe src="https://www.youtube.com/embed/RtB-8mXghfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## Pos-rastreabilidade - Entrega Final {#entrega-final}
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/LLDDNZ0pCNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
