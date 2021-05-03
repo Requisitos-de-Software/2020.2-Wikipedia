@@ -7,7 +7,7 @@ sections:
 
 ## Referências {#referencias}
 
-.
+> SHARP, Helen; ROGERS, Yvonne; PREECE, Jenny. "INTERACTION DESIGN beyond human-computer interaction". Third edition. John Wiley & Sons, 2011.
 
 ## Histórico de Versão {#historico-de-versao}
 

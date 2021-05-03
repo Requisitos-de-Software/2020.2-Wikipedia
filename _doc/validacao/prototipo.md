@@ -7,7 +7,7 @@ sections:
 
 # Introdução {#introducao}
 
-Prototipação é uma técnica com finalidade de demonstrar ideias e características de um determinado sistema. Os protótipos possibilitam demonstrar diversos aspectos do sistema, como interface, processos de interação com interfaces e botões, de maneira a serem facilmente compreendidos. Protótipos podem vir em diversos materiais como papel e papelão e até mesmo em interfaces extremamente próximas do produto final. 
+Prototipação é uma técnica com finalidade de demonstrar ideias e características de um determinado sistema. Os protótipos possibilitam demonstrar diversos aspectos do sistema, como interface, processos de interação com interfaces e botões, de maneira a serem facilmente compreendidos. Protótipos podem vir em diversos materiais como papel e papelão e até mesmo em interfaces extremamente próximas do produto final.
 
 # Os Protótipos {#resultados}
 

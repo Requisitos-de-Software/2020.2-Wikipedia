@@ -1,8 +1,9 @@
 ---
-title: NFR Framework
-sections:
+title: >
+sections: NFR Framework
 ---
 
+<h2 id="nfr-framework" class="section-title">NFR Framework</h2>
 
 # NFR FrameWork - Performance {#nfr-framework-performance}
 

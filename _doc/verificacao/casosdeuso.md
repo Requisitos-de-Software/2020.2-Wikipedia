@@ -1,7 +1,9 @@
 ---
-title: Casos de Uso
-sections:
+title: >
+sections: Casos de Uso
 ---
+
+<h2 id="casos-de-uso" class="section-title">Casos de Uso</h2>
 
 Observação: **CRUD** é a composição da primeira letra de 4 funções básicas de um sistema que trabalha com banco de dados [[3]](#label3):
 

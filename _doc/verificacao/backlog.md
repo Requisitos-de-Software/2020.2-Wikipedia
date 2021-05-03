@@ -1,10 +1,11 @@
 ---
-title: Backlog
+title: >
 sections:
-    - Metodologia 
+    - Backlog
+    - INVEST
 ---
 
-## Metodologia
+<h2 id="backlog" class="section-title">Backlog</h2>
 
 Para verificar o Backlog elaboramos uma tabela com os tópicos definidos na metodologia INVEST que propõe seis tópicos fundamentais de uma boa User Story:
 
@@ -21,7 +22,7 @@ Para verificar o Backlog elaboramos uma tabela com os tópicos definidos na meto
 </p><br/>
 
 
-#### Explicando o INVEST
+#### Explicando o INVEST {#invest}
 
 * **Independent**: A independência entre as User Stories facilita a priorização e a estimativa.
 * **Negotiable**: Pode ser renegociada para responder as mudanças.

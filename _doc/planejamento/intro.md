@@ -89,8 +89,8 @@ A seguir estão listados os principais softwares que utilizaremos, além do [Tre
 | ![Word](assets/images/logos/Word.png)  | [Word](https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web) | Criação de documentos |
 | ![Github](assets/images/logos/Github.png)  | [Github](https://github.com/) | Versionamento do projeto |
 | ![Telegram](assets/images/logos/Telegram.png)  | [Telegram](https://telegram.org/) | Comunicação rápida e mais informal |
-| ![Draw.io](assets/images/logos/Draw-io.png)  | [Diagrams.net](https://telegram.org/) | Criação de diagramas |
-| ![YouTube](assets/images/logos/YouTube.png)  | [Youtube](https://telegram.org/) | Disponibilização dos vídeos de apresentação do [*card* apresentação](https://requisitos-de-software.github.io/2020.2-Wikipedia/apresentacoes.html) |
+| ![Draw.io](assets/images/logos/Draw-io.png)  | [Draw.io](https://www.diagrams.net/) | Criação de diagramas |
+| ![YouTube](assets/images/logos/YouTube.png)  | [Youtube](https://www.youtube.com/) | Disponibilização dos vídeos de apresentação do [*card* apresentação](https://requisitos-de-software.github.io/2020.2-Wikipedia/apresentacoes.html) |
 
 </div>
 

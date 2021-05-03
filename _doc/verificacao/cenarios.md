@@ -1,7 +1,9 @@
 ---
-title: Cenários
-sections:
+title: >
+sections: Cenario
 ---
+
+<h2 id="cenario" class="section-title">Cenários</h2>
 
 ### Checklist
 

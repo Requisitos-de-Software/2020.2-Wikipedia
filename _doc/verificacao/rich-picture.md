@@ -1,7 +1,9 @@
 ---
-title: Rich Picture
-sections:
+title: >
+sections: Rich Picture
 ---
+
+<h2 id="rich-picture" class="section-title">Rich Picture</h2>
 
 ### R01 - Geral
 

@@ -1,7 +1,9 @@
 ---
-title: Léxico
-sections:
+title: >
+sections: Lexico
 ---
+
+<h2 id="lexico" class="section-title">Léxico</h2>
 
 #### L1 - Artigo
 
