@@ -8,6 +8,7 @@ navigation:
   - /apresentacoes
   - /planejamento
   - /pre-rastreabilidade
+  - /pos-rastreabilidade
   - /elicitacao
   - /priorizacao
   - /modelagem
