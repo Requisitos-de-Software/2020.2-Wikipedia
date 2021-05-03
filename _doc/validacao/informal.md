@@ -22,5 +22,13 @@ Nós decidimos enviar um email para a equipe de desenvolvedores esperando que el
 
 ## Resposta
 
-Até o momento não foi recebida nenhuma resposta dos desenvolvedores do app.
+Com a resposta do email foi possivel validar que o projeto está no rumo certo e que existiam, alguns
+detalhes que poderiam ser melhorados e foram, abaixo segue a resposta do email.
 
+<div class="screenshot-holder" style="display: flex; justify-content: center;">
+<a href="assets/images/emailResposta.png" data-title="Email enviado" data-toggle="lightbox">
+<img class="img-responsive" src="assets/images/emailResposta.png" alt="screenshot" style="width: 100%" />
+</a>
+<a class="mask" href="assets/images/emailResposta.png" data-title="Email enviado" data-toggle="lightbox"><i class="icon fa fa-search-plus"></i>
+</a>
+</div>

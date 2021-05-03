@@ -8,13 +8,13 @@ navigation:
   - /apresentacoes
   - /planejamento
   - /pre-rastreabilidade
-  - /pos-rastreabilidade
   - /elicitacao
   - /priorizacao
   - /modelagem
   - /modelagem-II
   - /verificacao
   - /validacao
+  - /pos-rastreabilidade
 ---
 
 Esta é a wiki do projeto da disciplina de **Requisitos de Software** do grupo 1 do segundo semestre do ano de 2020 do aplicativo do **Wikipédia (versão Android)**.
