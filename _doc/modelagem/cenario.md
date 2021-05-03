@@ -27,7 +27,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 ## Cenários {#cenarios}
 
-#### Fazer login
+#### C1 - Fazer login
 
 <div class="table-responsive">
 
@@ -43,7 +43,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 </div>
 
-#### Vigiar artigo
+#### C2 - Vigiar artigo
 
 <div class="table-responsive">
 
@@ -59,7 +59,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 </div>
 
-#### Contribuir em artigo (Forma tradicional)
+#### C3 - Contribuir em artigo (Forma tradicional)
 
 <div class="table-responsive">
 
@@ -75,7 +75,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 </div>
 
-#### Contribuir em artigo (Por sugestão)
+#### C4 - Contribuir em artigo (Por sugestão)
 
 <div class="table-responsive">
 
@@ -92,7 +92,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 </div>
 
-#### Compartilhar artigo
+#### C5 - Compartilhar artigo
 
 <div class="table-responsive">
 
@@ -108,7 +108,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 </div>
 
-#### Deslogar
+#### C6 - Deslogar
 
 <div class="table-responsive">
 
@@ -124,7 +124,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 </div>
 
-#### Criar lista de artigos (Forma tradicional)
+#### C7 - Criar lista de artigos (Forma tradicional)
 
 <div class="table-responsive">
 
@@ -140,7 +140,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 </div>
 
-#### Criar lista de artigos (Após salvar um artigo)
+#### C8 - Criar lista de artigos (Após salvar um artigo)
 
 <div class="table-responsive">
 
@@ -156,7 +156,7 @@ Template adotado pelo grupo para a documentação de seus cenários:
 
 </div>
 
-#### Pesquisar artigos
+#### C9 - Pesquisar artigos
 
 <div class="table-responsive">
 

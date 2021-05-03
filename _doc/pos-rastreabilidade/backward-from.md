@@ -33,7 +33,7 @@ Rastreabilidade backward-from (para trás, a partir de), ligando requisitos às 
 <div class="table-responsive">
 
 {: .table .table-striped .table-bordered}
-| ID do Requisito | Requisito |
+| ID do Requisito | Requisito | Origem |
 |:--:|:--:|:--:|
 |RNF1| O aplicativo deve possuir portabilidade |Brainstorm|
 |RNF2| O aplicativo ser Veloz |Brainstorm |

@@ -17,5 +17,6 @@ sections:
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
 | 1.0 | 03/05/2021 | Criação da página e backward-from | Kess Jhones |
+| 2.0 | 03/05/2021 | Adição do conteudo Foward-from | Pedro Henrique |
 
 </div>

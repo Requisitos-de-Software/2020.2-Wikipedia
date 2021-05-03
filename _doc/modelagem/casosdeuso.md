@@ -14,7 +14,7 @@ Na Linguagem de modelagem unificada (UML), o diagrama de caso de uso resume os d
 
 Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre casos de uso, atores e sistemas. Para oferecer maior detalhamento foi utilizado da especificação de caso de uso. [[2]](#label2)
 
-## Caso de uso 1: Wikipédia {#caso-de-uso-1}
+## UC1 - Caso de uso 1: Wikipédia {#caso-de-uso-1}
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
 <a href="assets/images/casosdeuso/Wikipédia.png" data-title="Caso de uso do Wikipédia" data-toggle="lightbox">
@@ -28,7 +28,7 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
     Figura 1 - Caso de uso Wikipédia. Própria Autoria.
 </p><br/>
 
-## Caso de uso 2: Buscar artigo {#caso-de-uso-2}
+## UC2 - Caso de uso 2: Buscar artigo {#caso-de-uso-2}
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
 <a href="assets/images/casosdeuso/Buscar_artigo.png" data-title="Caso de uso buscar artigo" data-toggle="lightbox">
@@ -75,7 +75,7 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
     O autor poderá navegar entre os resultados ou selecionar um que lhe satisfaça.
     <br><br>
 
-## Caso de uso 3: Contribuir em artigo {#caso-de-uso-3}
+## UC3 - Caso de uso 3: Contribuir em artigo {#caso-de-uso-3}
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
 <a href="assets/images/casosdeuso/Contribuir_em_artigo.png" data-title="Caso de uso contribuir em artigo" data-toggle="lightbox">
@@ -138,7 +138,7 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
     O ator adiciona sua contribuição aos artigos do aplicativo.
     <br><br>
 
-## Caso de uso 4: Realizar login {#caso-de-uso-4}
+## UC4 - Caso de uso 4: Realizar login {#caso-de-uso-4}
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
 <a href="assets/images/casosdeuso/Realizar_login_.png" data-title="Caso de uso realizar login" data-toggle="lightbox">
@@ -192,7 +192,7 @@ Um diagrama de caso de uso adequado dá uma visão geral do relacionamento entre
     O autor deverá conseguir entrar, recuperar sua senha ou se cadastrar com sucesso e finalizar seu login no aplicativo.
     <br><br>
 
-## Caso de uso 5: Salvar artigo {#caso-de-uso-5}
+## UC5 - Caso de uso 5: Salvar artigo {#caso-de-uso-5}
 
 <div class="screenshot-holder" style="display: flex; justify-content: center;">
 <a href="assets/images/casosdeuso/Salvar_artigo.png" data-title="Caso de uso salvar artigo" data-toggle="lightbox">
