@@ -18,7 +18,7 @@ Rastreabilidade backward-from (para trás, a partir de), ligando requisitos às 
 |RF5| Compartilhar Artigo |Brainstorm e Introspecção|
 |RF6| Definir Tema do Aplicativo |Brainstorm e Introspecção|
 |RF7| Definir Linguagem do Aplicativo |Brainstorm|
-|RF8| Editar Artigo |Brainstorm e Introspecção|
+|RF8| Contribuir em Artigo |Brainstorm e Introspecção|
 |RF9| Criar tópico de discussão |Brainstorm|
 |RF10| Visualizar Histórico de Artigos Acessados |Brainstorm e Introspecção|
 |RF11| Fazer Doações ao Site |Brainstorm|

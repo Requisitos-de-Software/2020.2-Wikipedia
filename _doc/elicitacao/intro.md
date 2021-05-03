@@ -116,7 +116,7 @@ RFN: Requisito Não Funcional.
 | RF7 | A aplicação deve permitir que o usuário possa ver o histórico de artigos acessados.
 | RF8 | A aplicação deve permitir que o usuário possa apagar o histórico de artigos acessados.
 | RF9 | A aplicação deve permitir que o usuário possa compartilhar artigos.
-| RF10 | A aplicação deve permitir que o usuário possa editar artigos.
+| RF10 | A aplicação deve permitir que o usuário possa contribuir em artigos.
 | RF11 | A aplicação deve permitir que o usuário possa visualizar suas edições de artigos.
 | RF12 | A aplicação deve avisar ao usuário quando uma contribuição foi revertida.
 | RF13 | A aplicação deve recomendar artigos ao usuário.
@@ -206,7 +206,7 @@ encontrados. Outro motivo é que a mesma garante a participação de todos os in
 
 Os temas que guiaram as reuniões de Brainstorm foram:
 
-- Possíveis funcionalidades que seriam utilizadas por usuários dispostos a editar artigos.
+- Possíveis funcionalidades que seriam utilizadas por usuários dispostos a contribuir em artigos.
 - Possíveis funcionalidades que seriam utilizadas por usuários que apenas buscam informações em artigos.
 - Possíveis funcionalidades que oferecem comodidade a todos os usuários.
 
@@ -228,7 +228,7 @@ __Legenda:__ <br> RF: Requisito Funcional. <br>RFN: Requisito Não Funcional.
 |RF5| Compartilhar Artigo |
 |RF6| Definir Tema do Aplicativo |
 |RF7| Definir Linguagem do Aplicativo |
-|RF8| Editar Artigo |
+|RF8| contribuir em Artigo |
 |RF9| Criar tópico de discussão |
 |RF10| Visualizar Histórico de Artigos Acessados |
 |RF11| Fazer Doações ao Site |
@@ -281,7 +281,7 @@ __Legenda:__ <br> RF: Requisito Funcional. <br>RFN: Requisito Não Funcional.
 |RF5| Compartilhar Artigo |
 |RF6| Definir Tema do Aplicativo |
 |RF7| Definir Linguagem do Aplicativo |
-|RF8| Editar Artigo |
+|RF8| contribuir em Artigo |
 |RF9| Criar tópico de discussão |
 |RF10| Visualizar Histórico de Artigos Acessados |
 |RF11| Fazer Doações ao Site |

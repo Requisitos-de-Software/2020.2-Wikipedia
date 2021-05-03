@@ -17,5 +17,6 @@ sections:
 | Versão | Data | Modificação | Autor(es) |
 |--|--|--|--|
 | 1.0 | 16/04/2021 | Criação da pagina e adição do conteúdo | Todos os integrantes |
+| 1.2 | 16/04/2021 | Resultados | Igor Queiroz e Matheus Gabriel |
 
 </div>

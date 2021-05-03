@@ -17,7 +17,7 @@ sections:
 |RF5| Compartilhar Artigo |C5| L9 | - | US9|
 |RF6| Definir Tema do Aplicativo | - |L10| - | US15|
 |RF7| Definir Linguagem do Aplicativo | - | - | - | US16 |
-|RF8| Editar Artigo | C3, C4 | L5 | UC3 | US3 |
+|RF8| Contribuir em Artigo | C3, C4 | L5 | UC3 | US3 |
 |RF9| Criar tópico de discussão | - | L11 | UC3 | US6 |
 |RF10| Visualizar Histórico de Artigos Acessados | C2 |L15| - | US10 |
 |RF11| Fazer Doações ao Site | - | L6 | - | - |
