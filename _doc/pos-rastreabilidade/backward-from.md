@@ -1,13 +1,10 @@
 ---
-title: backward-from
+title: Backward-From
 sections:
-    - Introducao
 ---
-
-## Introdução {#introducao}
-
-
-##### Requisitos Funcionais
+### Matriz de Rastreabilidade
+Rastreabilidade backward-from (para trás, a partir de), ligando requisitos às suas fontes.
+#### Requisitos Funcionais
 
 <div class="table-responsive">
 
@@ -29,5 +26,17 @@ sections:
 |RF13| Criar lista de artigos  |Brainstorm|
 |RF14| Acompanhar artigo  |Brainstorm|
 |RF15| Possuir um feed de artigos relevantes e notícias  |Brainstorm e Introspecção|
+
+</div>
+
+#### Requisitos não Funcionais
+<div class="table-responsive">
+
+{: .table .table-striped .table-bordered}
+| ID do Requisito | Requisito |
+|:--:|:--:|:--:|
+|RNF1| O aplicativo deve possuir portabilidade |Brainstorm|
+|RNF2| O aplicativo ser Veloz |Brainstorm |
+|RNF3| O aplicativo deve Garantir Veracidade Dos Artigos |Brainstorm e Introspecção|
 
 </div>

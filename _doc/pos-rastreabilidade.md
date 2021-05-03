@@ -6,5 +6,8 @@ icon:
   name: icon_search-2
 color: pink
 sections:
+  - /pos-rastreabilidade/intro
   - /pos-rastreabilidade/backward-from
+  - /pos-rastreabilidade/forward-from
+  - /pos-rastreabilidade/versionamento
 ---
